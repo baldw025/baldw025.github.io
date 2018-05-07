@@ -2,34 +2,40 @@
 ---
 
 @import "{{ site.theme }}";
+/*Main Header*/
 header
 {
   background:#4989c8;
 }
 
+/*Header Headline*/
 header h1
 {
   color: #00ffa6;
   text-shadow: 0 0 20px #05e5ff;
 }
 
+/*Header Paragraph*/
 header p
 {
   color:#fff;
   font-size: 14px;
 }
 
+/*Header Banner*/
 header ul
 {
   background: #8BF962CC;
 }
 
+/*View on GitHub Button*/
 header ul a,header ul a strong
 {
   color:white;
   font-size: 15px
 }
 
+/*The Body, Derp*/
 body 
 {
   background-image: url("https://i.imgur.com/WuVOPDq.jpg");
@@ -39,9 +45,10 @@ body
   padding: 500px 0;
 }
 
+/*Welcome Dialog*/
 .wrapper 
 {
   width:700px;
   position: relative;
-  bottom: 200px;
+  bottom: 250px;
 }
