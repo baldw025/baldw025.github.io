@@ -1,0 +1,750 @@
+<div class="titleBar">
+<h1>Authority Features and Functions</h1>
+</div>
+ 
+<div class="sectionMain wikiPage" id="wikiPage" data-author="Community">
+<div style="display: none;">
+<a href="index.php?wiki/" class="avatar"><span class="img" style="background-image: url('styles/black_responsive_blue/xenforo/logo.og.png')"></span></a>
+<span class="DateTime" title="Jan 1, 2017 at 3:58 PM">Jan 1, 2017</span>
+</div>
+<ul class="tabs controlTabs">
+<li><a href="index.php?wiki/authority-features-and-functions/edit">Edit</a></li>
+</ul>
+<ul class="tabs mainTabs Tabs" data-panes="#WikiPanes > li" data-history="on">
+<li><a href="/community/index.php?wiki/authority-features-and-functions/#wikiContent">Page</a></li>
+<li><a href="/community/index.php?wiki/authority-features-and-functions/#history">History</a></li>
+<li><a href="/community/index.php?wiki/authority-features-and-functions/#editors">Editors</a></li>
+</ul>
+<div class="subHeading">
+<div style="float: right;">
+(<a href="index.php?wiki/authority-features-and-functions/watch-confirm" class="OverlayTrigger" data-cacheOverlay="false">Unwatch Page</a>)
+</div>
+Authority Features and Functions
+</div>
+<ul id="WikiPanes">
+<li id="wikiContent" class="wikiContent">
+<div class="primaryContent">
+<div style="text-align: center"><img src="https://i.gyazo.com/fc810c71dc6623aeaa6a8558a1609f13.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.gyazo.com/fc810c71dc6623aeaa6a8558a1609f13.png"/><br/>
+<b><span style="color: #0080ff"><span style="text-decoration: underline"><span style="font-family: 'Century Gothic'"><span style="font-size: 26px">Features and Their Functions</span></span></span></span></b><br/>
+<img src="http://i.imgur.com/iTeTjpW.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/iTeTjpW.png"/><br/>
+<span style="font-size: 15px"><b><span style="color: rgb(0, 128, 255)"><i>Version</i></span></b></span>: <i>2.0.0 <img src="styles/skype/smiley/emoticon-0123-party.gif" class="mceSmilie" alt=":party:" title="Party!!!    :party:"/></i><br/>
+----------------------------------------------------------------<br/>
+<span style="font-size: 22px"><span style="color: #0080ff"><span style="text-decoration: underline"><b><span style="font-family: 'century gothic'"><span style="font-family: 'century gothic'">Navigation</span> and General Hotkeys</span></b></span></span>:</span><br/>
+<span style="color: #0080ff"><span style="text-decoration: underline">Keyboard</span></span>:<br/>
+<b>F8</b>: Open and Close the UI<br/>
+<b>NumPad 8</b>: Scroll Upwards<br/>
+<b>NumPad 2</b>: Scroll Downwards<br/>
+<b>NumPad 4</b>: Scroll Left<br/>
+<b>NumPad 6</b>: Scroll Right<br/>
+<b>NumPad 5</b>: Select Current Option/Open Category<br/>
+<b>NumPad 0</b>: Go Back/Close Category<br/>
+<b>NumPad +</b>: Fire Vehicle Rockets (if enabled under Vehicle Options)<br/>
+<b>F5</b>: Clean Player/Refill Health<br/>
+<b>F6 + M</b>: Teleport to Mission Objective<br/>
+<b>F6 + C</b>: Teleport to Crate<br/>
+<b>F7</b>: Teleport to Waypoint<br/>
+<b>F9</b>: Clear Forced Animations (For when skiddos put you in an animation loop)<br/>
+<b>J </b>- Breathe Fire (if enabled under Weapon Options)<br/>
+<br/>
+<span style="color: #0080ff"><span style="text-decoration: underline">Xbox and PlayStation Controllers</span></span>:<br/>
+(<i>PlayStation-equivalent controls are marked in parenthesis</i>)<br/>
+<b>Right Bumper + DPad Left (R1 + DPad Left)</b>: Open and Close the UI<br/>
+<b>DPad Up</b>: Scroll Upwards<br/>
+<b>DPad Down</b>: Scroll Downwards<br/>
+<b>DPad Left</b>: Scroll Left<br/>
+<b>DPad Right</b>: Scroll Right<br/>
+<b>A (X)</b>: Select Current Option/Open Category<br/>
+<b>B (O)</b>: Go Back/Close Category<br/>
+<b>Left Analogue Stick</b>: Fire Vehicle Rockets (if enabled under Vehicle Options)<br/>
+----------------------------------------------------------------<br/>
+<i><span style="color: #00ff00">You can now apply custom key mappings for Authority</span></i>. Visit this link for the proper key values:<br/>
+<a href="https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx" target="_blank" class="externalLink" rel="nofollow">https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx</a><br/>
+Modify the key mappings via the &quot;settings.ini&quot; in the Authority folder inside your Grand Theft Auto V directory.<br/>
+----------------------------------------------------------------<br/>
+<img src="http://i.imgur.com/hmQf9Yz.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/hmQf9Yz.png"/> designates a toggle that&#039;s<span style="color: #00ff00"><i> enabled</i></span>.<br/>
+<img src="http://i.imgur.com/WwhSC3q.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/WwhSC3q.png"/> designates a toggle that&#039;s <span style="color: #ff0000">disabled</span>.<br/>
+&#8203;</div><span style="font-size: 26px"><span style="color: #0080ff"><b><span style="text-decoration: underline"><span style="font-family: 'century gothic'">Player Options</span></span></b></span>:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Player Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/oFSOLWj.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/oFSOLWj.png"/><img src="http://i.imgur.com/RG9WOIS.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/RG9WOIS.png"/><br/>
+<b><br/>
+Invincibility</b> - Also known as God Mode. <i>&#039;Tis but a scratch!</i><br/>
+<b>No Ragdoll</b> - Prevents your character from transitioning to ragdoll states. <i>I fall for no man.</i><br/>
+<b>Off The Radar</b> - Removes your blip from the radar, whilst also providing God Mode\Invincibility. <i>Great for stalking your online lovers.</i><br/>
+<b>Super Jump</b> - Allows your character to jump several stories high. <i>Super jump away from your problems!</i><br/>
+<b>Super Man</b> - Allows you to fly around like Super Man. <i>Just like the ol&#039; days.</i><br/>
+<b>Never Wanted</b> - Never gain a star again. <i>YOU are the law.</i><br/>
+<b>RP Loop</b> - Toggles wanted stars on and off which grants you RP. <i>Use and abuse.</i><br/>
+<b>Tiny Player</b> - Makes your character adorably tiny.<i> Too bad you can&#039;t show your friends.</i><br/>
+<b>No Player Gravity</b> - Does exactly as it says. <i>Sidewalks are for chumps.</i><br/>
+<b>Invisibility</b> - Makes your character <i>invisible. Whoosh</i><br/>
+<b>Part the Sea</b> - Moves water away from the player. Walk &quot;underwater&quot; and stuff. Great for Jesus roleplay. <span style="font-size: 9px">If you&#039;re into that, idk</span><br/>
+<b>Mobile Radio</b> - Allows you to listen to the radio without being in a vehicle. Radio controls are still the same<br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Change Model</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/dTJjsKl.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/dTJjsKl.png"/><br/>
+This section allows you to change your current player model.<br/>
+<span style="color: #0080ff"><i>Note</i></span>: There are some animal models that are not visible to other players, à la client-side only. Also, spawning as a sea animal on land will cause you to <i>crash</i>.<br/>
+<br/>
+<b>Custom Input</b> - Selecting this option will allow you to input a custom ped model that <i>may</i> not be listed. See the ped model list here: <a href="https://Community.org/community/index.php?wiki/ped-model-list/" class="internalLink"><i><span style="text-decoration: underline">Click Me</span></i></a>.</div>
+</div><b>Clean Player</b> - Removes blood, wetness, and bruise decals from your character.<br/>
+<b><b><b>Z Coord</b> - </b></b>Sets your current elevation level.<i>Because you can never be too high.</i><br/>
+<b>Movement Speed</b> - A multiplier that adjusts how fast your character moves, overall. Higher is faster, lower is slower.<br/>
+<b>Bodyguards</b> - Spawns a &quot;few&quot; IAA security guards to protect you. They shoot to kill anything that displays signs of violence.<br/>
+<b>Anti Crash Camera</b> - Camera to use when you&#039;re being radiated (Cargo plane spam) and/or clone crashed. I recommend teleporting before exiting this camera after an attack.<br/>
+<b>Heat Vision</b> - Applies a FLIR (thermal)-like vision overlay. Great for spotting players in hard to see locations as they&#039;ll glow a bright yellow/orange.<br/>
+<b>Night Vision</b> - Applies the typical green night vision vision overlay. Use it for, night things I guess. Also the &quot;too broke for the actual heist NVGs&quot; alternative.</div>
+</div><br/>
+<span style="font-family: 'century gothic'"><span style="font-size: 26px"><span style="color: #0080ff"><span style="text-decoration: underline"><b>Online Options</b></span></span></span></span><span style="font-size: 26px">:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Online Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/TtlnoPG.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/TtlnoPG.png"/><img src="http://i.imgur.com/77RlWqi.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/77RlWqi.png"/><br/>
+<i><span style="color: #0080ff">Notes</span></i>:<br/>
+<ul>
+<li>ESP needs to be toggled on for ESP 3D to work.</li>
+<li>Aimbot <i>currently</i> does not work with ESP on.</li>
+</ul><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Players</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/6YsOGau.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/6YsOGau.png"/><img src="http://i.imgur.com/dyVwAV1.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/dyVwAV1.png"/><br/>
+<br/>
+<b>Teleport to Player</b> - Teleports you to the current selected player<br/>
+<b>Give Player Weapons</b> - Gives all weapons to the current selected player.<br/>
+<b>Attach to Player</b> - Attaches yourself to the current selected player.<br/>
+<b>Detach from Player</b> - Detaches yourself from the current selected player.<br/>
+<b>Give Player Money</b> (<span style="color: #ff0000">RISKY</span>) - Drops money on the current selected player.<br/>
+<b>Money Drop Delay</b> - Adjusts how fast, or how slow, money will drop. Helps prevent transaction errors and other money-related crashes.<br/>
+<b>Spectate Mode</b> (Buggy) - Allows you to anonymously spectate a player. Don&#039;t spectate yourself, please. That&#039;s just weird.<br/>
+<b>PED Money Drop (<span style="color: #ff4dff">aka Kill Peds</span>)</b> - All peds in memory teleport and die above you, each ped dropping a stack of $10,000. Very useful in survivals as well (don&#039;t do Survivals that use Cops as enemies.) Nice alternative money method if you don&#039;t like gold bar/paper bag drops.<br/>
+<b>Launch Vehicle</b> - Launches your (or someone elese&#039;s) vehicle into the air, like the good old days. Sorry car guys, this isn&#039;t the &quot;launch your car at 4,500 RPMs from a dig&quot; type of launch. I&#039;m <i>slightly</i> disappointed as well.<br/>
+<b>TP 2 Me</b> - Teleports the current selected player to you. Expect a lawsuit and restraining order.<br/>
+<b>Copy Outfit</b> - Applies the current-selected player&#039;s outfit to your character. Because you&#039;re unoriginal, amirite.<br/>
+<b>Spawn Custom</b> - Spawns a custom object at (or on?) the selected player. (For a full object list, please visit the following link: <a href="https://Community.org/community/index.php?wiki/object-prop-list/" class="internalLink">Click me</a>.)<br/>
+<b>Ride Player</b> - Allows you to, uh, &quot;ride&quot; the selected player. Not the sexual ride like, &quot;I&#039;m going to ride that ass&quot;, the ride as in, ride on their shoulders. You sick mother fu-<br/>
+<b>Send Attackers</b> - Sends an assortment of strapped and hostile NPCs to the player. The better alternative to Mercenaries.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Stat Options</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/M6OHCXk.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/M6OHCXk.png"/><br/>
+<i><span style="color: #0080ff">Note</span>:</i> Character 1 is the left character when you go to &quot;Swap Character&quot;. Character 2 is the right character.<br/>
+<div style="padding-left: 30px"><br/>&#8203;</div><b>Char 1 Max Stats</b> - Maxes your first character&#039;s stats (Stamina, Shooting, Driving, and etcetera.)<br/>
+<b>Char 1 Unlock All</b> - Unlocks everything for your first character. All weapons + tints + attachments, all Los Santos Customs modifications + upgrades, all heist vehicles, all clothes, all tattoos, all bragging rights (not really you still suck), and yeah.<br/>
+<b>Char 2 Max Stats</b> - Maxes your first character&#039;s stats (Stamina, Shooting, Driving, and etcetera.)<br/>
+<b>Char 2 Unlock All</b> - Unlocks everything for your second character. All weapons + tints + attachments, all Los Santos Customs modifications + upgrades, all heist vehicles, all clothes, all tattoos, all bragging<br/>
+rights (not really you still suck), and yeah.</div>
+</div><b>Name Changer</b> - Allows you to temporarily change your SCID. (Need to join a new session afterwards in order for other players to see your name change.) (Yes you can still get reported, all reports still go to your actual SCID, so be nice.)<br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Map Mods</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/od3X8JN.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/od3X8JN.png"/><img src="http://i.imgur.com/SbTl3hk.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/SbTl3hk.png"/><br/>
+<span style="color: #0080ff"><i>Note(s)</i></span>:Holds an assortment of Community-esque map mods (saved world object placements). It&#039;s highly recommended that you manually teleport to the approximate reference location (example: Teleport to Maze Bank before loading Maze Derby Ferris Tree) as the objects won&#039;t load if you&#039;re not within rendering distance. Pretty much all map mods will be seen perfectly fine by other players. *Objects will not render over extended distances.<br/>
+<br/>
+<b>Unload All</b> - Unloads all previously loaded map mods from memory. i.e. Deleting all spawned in map mod props.</div>
+</div><b>Who&#039;s Talking</b> - When toggled on, brings up a display of a player&#039;s SCID when they talk.<br/>
+<b>ESP </b>- Extrasensory Perception/Wallhack. Allows you to see player&#039;s names through solid objects and cross the map.<br/>
+<b>ESP Lines</b> - Draws lines from other players&#039; torso to yours. Great for getting an idea of their approximate distance from you.<br/>
+<b>Aimbot</b> - Headshots any player you aim at. Good luck have fun. (Does not work with <b>ESP</b> on).<br/>
+<b>Karma</b> - Headshots any player that aims at you. ¯\_(ツ)_/¯<br/>
+<b>Time Trial</b> - An easy $2k/completion money method that teleports you to the finish and start of time trial races in continuum.<br/>
+<b>Time Trial Delay</b> - Adjusts how fast you complete time trials (ms). (May need to be increased for less powerful rigs due to the increased render strain.)<br/>
+<b>Badsport Protection</b> - Protects you from being bad sported for destroying personal vehicles. Also works against Force users who do insane insurance frauds on players.<br/>
+<b>Destroyed Vehicles</b> - Displays how many personal vehicles you&#039;ve destroyed. Gives you an idea of how close you are to being bad sported.<br/>
+<b>Clear Area</b> - Clears the area around you (I would assume a 100m radius) of vehicles. <span style="text-decoration: line-through">props/objects, NPCs (?), and other entities. For those who go ham with the object spawner and are incapable of removing said objects.</span><br/>
+<b>Clear Attachments</b> - Removes any attachments (props) from your player.<br/>
+<b>Attachment Detection</b> - Automatically detects and removes any attachments (props) attached to your character.<br/>
+<b>No Idle Kick</b> - Prevents you from being kicked when idle. Useful for those of you who like to leave money drop on over night.</div>
+</div><br/>
+<span style="font-size: 26px"><span style="color: #0080ff"><b><span style="font-family: 'century gothic'"><span style="text-decoration: underline">Clothing Options</span></span></b></span>:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Clothing Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/MFKD5To.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/MFKD5To.png"/><br/>
+<br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Male Outfits</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/r1dabTF.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/r1dabTF.png"/><br/>
+This section contains various pre-made male outfits.<br/>
+<br/>
+<b>Pilot</b> - Equips your character with the green flight suit.<br/>
+<b>Strength</b> - Equips your character with a SWAT-like LTS outfit. (Bulletproof helmet, face mask, duffle bag included.)<br/>
+<b>Security</b> - Equips your character with a &quot;light&quot; version of the Strength outfit. (Black officer hat, police utility belt included.)<br/>
+<b>Families</b> - Equips your character with a Families-esque outfit (green gang member outfit.)<br/>
+<b>Ballas</b> - Equips your character with a Ballas-esque outfit (purple gang member outfit.)<br/>
+<b>Thug</b> - Equips your character with a Vagos-esque outfit (imagine cholo.)<br/>
+<b>Santa</b> - Equips your character with the Festive Santa outfit (mask included.)<br/>
+<b>Elf</b> - Equips your character with the Festive Elf outfit (mask included.)<br/>
+<b>Snowman</b> - Equips your character with the Festive Snowman outfit (mask included.)<br/>
+<b>Cop</b> - Equips your character with the Prison Break heist cop outfit (no hat included, utility bet included.)<br/>
+<b>Beast</b> - Equips your character with the Beast freemode event outfit.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Female Outfits</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/OqF1T4x.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/OqF1T4x.png"/><br/>
+This section contains various pre-made female outfits.<br/>
+<br/>
+<b>Pilot</b> - Equips your character with the green flight suit.<br/>
+<b>Strength</b> - Equips your character with a SWAT-like LTS outfit. (Bulletproof helmet, duffle bag included.)<br/>
+<b>Security</b> - Equips your character with a &quot;light&quot; version of the Strength outfit. (Black beret, police utility belt included.)<br/>
+<b>Biker</b> - Equips your character with a biker-esque outfit.<br/>
+<b>Business</b> - Equips your character with a white business-like outfit<br/>
+<b>Cop</b> - Equips your character with the Prison Break heist cop outfit (no hat included, utility bet included.)<br/>
+<b>Whore</b> - Equips your character with a naked torso, heels, and panties. Kek</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Component Options</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/cmtinYN.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/cmtinYN.png"/><br/>
+<span style="color: #0080ff"><i>Note</i></span>:<br/>
+<ul>
+<li><i>Some components, most notably &quot;Face,&quot; won&#039;t work for the freemode models (your online avatar) and are reserved for other pedestrian models.</i></li>
+</ul><br/>
+<b>Face</b> - Cycles through your model&#039;s different heads, if applicable.<br/>
+<b>Mask</b> - Cycles through your model&#039;s different masks/face-wear, if applicable.<br/>
+<b>Hair</b> - Cycles through your model&#039;s different hairstyles, if applicable.<br/>
+<b>Torso</b> - Cycles through your model&#039;s different torso meshes. Helps prevent clipping for various clothing combinations. Can attain: gloves, an invisible torso, and a female &quot;nude&quot; torso with this.<br/>
+<b>Legs</b> - Cycles through your model&#039;s different pants. Can attain invisible legs with this.<br/>
+<b>Hands</b> - This component doesn&#039;t actually do anything with your hands, as suggested. Actually cycles through all the different parachutes and bags your character can wear. Can attain: black duffle bags, green duffle bags, unique chutes.<br/>
+<b>Shoes</b> - Cycles through your model&#039;s different shoes. Can attain invisible feet with this.<br/>
+<b>Special 1</b> - ~Need to check this one out~ //Might be Task items } - Or Vice<br/>
+<b>Special 2</b> - ~Need to check this one out~ //Could be accessories 1 }-| Versa<br/>
+<b>Special 3</b> - ~Need to check this one out~ //Could be accessories 2 }-|<br/>
+<b>Emblem</b> - Cycles through your model&#039;s different clothing emblems, if applicable. Can attain: Various crew logo sizes, race suit decals, unused decals, unique decals.<br/>
+<b>Torso 2</b> - Cycles through your model&#039;s different shirts, coats, jackets, and etcetera.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Texture Options</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/2ecMomH.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/2ecMomH.png"/><br/>
+<span style="color: #0080ff"><i>Note</i></span>:<br/>
+<ul>
+<li><i>Some textures, most notably &quot;Face&quot; and &quot;Emblem,&quot; won&#039;t work for the freemode models (your online avatar) and are reserved for other pedestrian models.</i></li>
+</ul><br/>
+<b>Face</b> - Cycles through your current head&#039;s different textures, primarily ethnicity related, if applicable.<br/>
+<b>Mask</b> - Cycles through your current mask&#039;s textures.<br/>
+<b>Hair</b> - Cycles through your current hairstyle&#039;s different colors.<br/>
+<b>Torso</b> - Cycles through your current torso&#039;s textures. Pretty much only useful if you&#039;re using a torso with gloves.<br/>
+<b>Legs</b> - Cycles through your current pants&#039; textures.<br/>
+<b>Hands</b> - Cycles through your current parachute bag&#039;s textures.<br/>
+<b>Shoes</b> - Cycles through your current shoe&#039;s textures.<br/>
+<b>Special 1</b> - ~Need to check this one out~ //Might be Task items } - Or Vice<br/>
+<b>Special 2</b> - ~Need to check this one out~ //Could be accessories 1 }-| Versa<br/>
+<b>Special </b>3 - ~Need to check this one out~ //Could be accessories 2 }-|<br/>
+<b>Emblem</b> - Cycles through your current clothing&#039;s emblem textures, if applicable.<br/>
+<b>Torso 2</b> - Cycles through your current shirt&#039;s/coat&#039;s/jacket&#039;s, or etcetera&#039;s textures.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Prop Options Menu</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/ZSArmh7.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/ZSArmh7.png"/><br/>
+<br/>
+<b>Hats</b> - Cycles through your model&#039;s different hats.<br/>
+<b>Glasses</b> - Cycles through your model&#039;s different glasses.<br/>
+<b>Ears </b>- Cycles through your model&#039;s different ear accessories.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Prop Texture Options</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/LUZk5cX.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/LUZk5cX.png"/><br/>
+<br/>
+<b>Hats</b> - Cycles through your current hat&#039;s textures.<br/>
+<b>Glasses</b> - Cycles through your current glasses&#039; textures.<br/>
+<b>Ears</b> - Cycles through your current ear component&#039;s textures.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Save Outfits</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/0jp16a2.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/0jp16a2.png"/><br/>
+<br/>
+All your saved custom outfits will be stored here. (Maximum of 10 at the moment.)</div>
+</div></div>
+</div><br/>
+<span style="font-size: 26px"><span style="color: #0080ff"><span style="text-decoration: underline"><b><span style="font-family: 'century gothic'">Vehicle Options</span></b></span></span>:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Vehicle Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/cSwNLRY.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/cSwNLRY.png"/><img src="http://i.imgur.com/sKks6lp.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/sKks6lp.png"/><br/>
+<br/>
+<b>Vehicle Invincibility</b> - Makes your vehicle, well, invincible. <i>As if armored Kurumas weren&#039;t enough. Ugh.</i><br/>
+<b>Bulletproof Tires</b> - Makes your current vehicle&#039;s tires bulletproof. <i>Bulletproof windows when?</i><br/>
+<b>Fly Car</b> - Allows you to fly your car. Warning: May be nauseating.<i> Please use the provided bags for sickness. (Space to launch, Page Up/Page Down to control)</i><br/>
+<b>Rainbow Mode</b> - Rapidly cycles through paint schemes giving a rainbow-like effect.<i> LSD trip without the LSD.</i><br/>
+<b>Speedo</b> - Brings up a display which shows the current speed you&#039;re driving at.<br/>
+<b>Vehicle Rockets</b> - Allows you to fire rockets from your vehicle. (Use NumPad + to fire)<br/>
+<b>No Vehicle Gravity</b> - No gravity for your vehicle, as the name implies. <i>Fly awaaaaay</i><br/>
+<b>Fix Vehicle</b> - I don&#039;t know what else to say.<i> Can we fix it? Yes we can! <span style="font-size: 9px">to an extent</span></i><br/>
+<b>Max Vehicle</b> - Equips your vehicles with the highest upgrades possible. <i>Racing stickers not included.</i><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Vehicle Mods</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/v5h3sZ5.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/v5h3sZ5.png"/><img src="http://i.imgur.com/P58mw7s.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/P58mw7s.png"/><img src="http://i.imgur.com/80xhDyg.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/80xhDyg.png"/><img src="http://i.imgur.com/zQzKogo.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/zQzKogo.png"/><br/>
+<span style="color: #0080ff"><i>Notes</i></span>:<br/>
+<ul>
+<li>Mods marked with an asterisk (*) are for Benny&#039;s vehicles only.</li>
+<li>If a certain vehicle mod doesn&#039;t scroll past -1, your vehicle doesn&#039;t support that mod and you should stop making an effort to change it. Should also delete that thread/ chat message you&#039;re about to post.</li>
+</ul><b>Spoiler</b> - Equips your vehicle with various spoilers and increases vehicle traction. Maximum down force has been achieved.<br/>
+<b>Front Bumper</b> - Modifies your vehicle&#039;s front bumper. The ground becomes your enemy with a low enough suspension.<br/>
+<b>Rear Bumper</b> - Modifies your vehicle&#039;s rear bumper. Tow hooks and you don&#039;t even rally.<br/>
+<b>Side Skirt</b> - Modifies your vehicles skirt. ( ͡° ͜ʖ ͡°)<br/>
+<b>Exhaust</b> - Modifies your vehicle&#039;s exhaust.<br/>
+<b>Chassis</b> - Modifies your vehicle&#039;s chassis (doesn&#039;t work for every vehicle.)<br/>
+<b>Grille</b> - Modifies your vehicle&#039;s grill.<br/>
+<b>Hood</b> - Modifies your vehicle&#039;s hood.<br/>
+<b>Fender</b> - Modifies your vehicles fenders.<br/>
+<b>Right Fender</b> - Hints that it modifies your right fender but it&#039;s actually some miscellaneous mod.<br/>
+<b>Roof</b> - Modifies your vehicle&#039;s roof.<br/>
+<b>Engine</b> - Modifies your vehicle&#039;s engine. Improves your vehicle&#039;s top speed, maybe acceleration. 2JZ<br/>
+<b>Brakes</b> - Modifies your vehicle&#039;s brakes. Improves your vehicle&#039;s breaking time.<br/>
+<b>Transmission</b> - Modifies your vehicle&#039;s transmission. Improves your vehicles acceleration.<br/>
+<b>Horns</b> - Modifies your vehicle&#039;s horn sound. La Cucaracha<br/>
+<b>Suspensions</b> - Modifies your vehicle&#039;s suspension. Beware of potholes.<br/>
+<b>Armor</b> - Equips your vehicle with varying armor levels. Improves your vehicle&#039;s durability.<br/>
+<b>Unk17</b> - Unknown part (or mod), try it out on an assortment of vehicles and see if anything changes.<br/>
+<b>Turbo</b> - Equips your vehicle with a turbo charger. Improves your vehicle&#039;s acceleration<br/>
+<b>Unk19</b> - Unknown part (or mod), try it out on an assortment of vehicles and see if anything changes.<br/>
+<b>Tire Smoke</b> - Modifies your vehicle&#039;s tire smoke color.<br/>
+<b>Unk21</b> - Unknown part (or mod), try it out on an assortment of vehicles and see if anything changes.<br/>
+<b>Xenon Lights</b> - Equips your vehicles with bright modern xenon lights.<br/>
+<b>Front Wheels</b> - Modifies your vehicle&#039;s front axle wheels.<br/>
+<b>Back Wheels</b> - Modifies your vehicle&#039;s rear axle wheels.<br/>
+<b>Plate holder(*)</b> - Modifies the style of your vehicle&#039;s license plate holder.<br/>
+<b>Vanity Plates(*)</b> - Modifies your vehicle&#039;s license plate style.<br/>
+<b>Trim(*)</b> - Modifies your vehicle&#039;s interior trim design.<br/>
+<b><b>Ornaments</b>(*) - Equips your vehicle with a dashboard ornament (bobble heads.)<br/>
+<b>Dashboard</b>(*) - Modifies your vehicle&#039;s dashboard style.<br/>
+<b>Dial</b>(*) - Modifies your vehicle&#039;s tachometer style.<br/>
+<b>Door Speaker</b> - Equips your vehicle&#039;s doors with speakers.<br/>
+<b>Seats</b>(*) - Modifies your vehicle&#039;s seat style.<br/>
+<b>Steering Wheel</b>(*) - Modifies your vehicle&#039;s steering wheel.<br/>
+<b>Shifter Leavers</b>(*) - Modifies your vehicle&#039;s shift leaver.<br/>
+Plaques</b>(*) - Equips your vehicle with a neon plaque. (Low riders only)<br/>
+<b>Speakers</b>(*) - Equips your vehicle with a various amount of speakers and subwoofers.<br/>
+<b>Trunk</b>(*) - I assume this allows you to modify a vehicle&#039;s trunk. Crazy huh.<br/>
+<b>Hydraulics</b>(*) - Equips your vehicle with various hydraulic pumps.<br/>
+<b>Engine Block</b>(*) - Modifies the appearance of your vehicle&#039;s engine block.<br/>
+<b>Air Filter</b>(*) - Modifies the appearance of your vehicle&#039;s air filter.<br/>
+<b>Struts</b>(*) - Equips your vehicle with strut bars (engine bay.)<br/>
+<b>Arch Cover</b>(*) - Equips your vehicle with arch covers.<br/>
+<b>Aerials</b>(*) - Equips your vehicle with various aerodynamic parts.<br/>
+<b>Trim</b>(*) - Redundant? Might deal with vehicle&#039;s exterior trim.<br/>
+<b>Tank</b>(*) - 91 Octane, please.<br/>
+<b>Windows</b> - Modifies the tint of your vehicle&#039;s windows.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Handling Options</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/yNNgoa0.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/yNNgoa0.png"/><br/>
+<br/>
+<b>Acceleration</b> - Modifies your vehicle&#039;s acceleration. From 0-60 in 0.01s.<br/>
+<b>Mass</b> - Modifies your vehicle&#039;s mass. Move bitch, get out the way.<br/>
+<b>Initial Drive Force</b> - Modifies the vehicle&#039;s overall horsepower and torque and can increase top speed. Small adjustments necessary.<br/>
+<b>Suspension Force</b> - Modifies how far the car sits in the chassis. Changing this can affect traction and speed.<br/>
+<b>Up Shift</b> - Modifies the time it takes to up shift. (N/1-7) A higher number means quicker shifting.<br/>
+<b>Down Shift</b> - Modifies the time it takes to down shift. (7-1) A higher number means quicker shifting.<br/>
+<b>Corner Gri</b>p - Modifies your vehicle&#039;s cornering ability.<br/>
+<b>Line Grip</b> - Modifies your vehicle&#039;s grip during a dig.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Vehicle Colors</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/PyVL5p4.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/PyVL5p4.png"/><br/>
+<br/>
+<b>Primary Paints</b> - Cycles through the game&#039;s primary paint <a href="index.php?wiki/index/">Index</a>.<br/>
+<b>Secondary Paints</b> - Cycles through the game&#039;s secondary paint <a href="index.php?wiki/index/">Index</a>.<br/>
+<b>Primary Red</b> - Allows you to set a custom primary Red value for your vehicle.<br/>
+<b>Primary Green</b> - Allows you to set a custom primary Green value for your vehicle.<br/>
+<b>Primary Blue</b> - Allows you to set a custom primary Blue value for your vehicle.<br/>
+<b>Secondary Red</b> - Allows you to set a custom secondary Red value for your vehicle.<br/>
+<b>Secondary Green</b> - Allows you to set a custom secondary Green value for your vehicle.<br/>
+<b>Secondary Blue</b> - Allows you to set a custom secondary Blue value for your vehicle.</div>
+</div><b>Plate Text</b> - Allows you to modify your vehicle&#039;s plate text. Bring on the edgy, unoriginal, unfunny plate texts.<br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Spawn Vehicle</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/KRh9moD.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/KRh9moD.png"/><img src="http://i.imgur.com/D5pMV1l.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/D5pMV1l.png"/><br/>
+<span style="color: #0080ff"><i>Note</i></span>: Allows you to *gasp* spawn in vehicles <img src="styles/skype/smiley/emoticon-0104-surprised.gif" class="mceSmilie" alt=":o" title="Eek!    :o"/>. There are vehicle categories like: Sports, Super, Offroad, Trains, and etcetera. No need to worry about typing in the vehicle model in order to spawn.</div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Vehicle Extras</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/xEnKoyE.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/xEnKoyE.png"/><br/>
+<br/>
+This section will contain various toggleable extra vehicle components like: cup holders, phone holders, vehicle clutter/trash, lightbars (emergency vehicles), bull bars, spoilers, miscellaneous lights, and etcetera. NOT ALL VEHICLES WILL HAVE EXTRA COMPONENTS K.</div>
+</div><b>Drive to Waypoint</b> - Makes your vehicle autonomously drive to your current waypoint. Tesla tech boyos.<br/>
+<b>Magic Car</b> - To complete your magic school bus. Makes pretty particle effects come from the back of your vehicle upon acceleration, or just movement in general.<br/>
+<b>Boost On Horn</b> -<span style="font-size: 15px">Nitrous-like boost when you honk your horn.</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Save Vehicles</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/VVnUsNk.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/VVnUsNk.png"/><br/>
+<br/>
+All your saved custom vehicles will be stored here. (Maximum of 10 at the moment).</div>
+</div><b>Unlimited Voltic Boost</b> - When enabled, the Rocket Voltic will have unlimited boost. Makes for great and fun times.<br/>
+<b>Torque</b> - Modifies your vehicles torque, or turning power.<br/>
+<b>Engine Power </b>- Modifies the power output of your engine. Adds about 500 WHP per multiplier increase. <span style="font-size: 9px">not rly</span></div>
+</div><br/>
+<span style="font-family: 'century gothic'"><span style="color: #0080ff"><span style="font-size: 26px"><b><span style="text-decoration: underline">Weapon Options</span></b></span></span></span><span style="font-size: 26px">:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Weapon Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><span style="font-size: 15px"><img src="http://i.imgur.com/bTnQ4ZO.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/bTnQ4ZO.png"/><img src="http://i.imgur.com/ZkMJEbo.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/ZkMJEbo.png"/></span><br/>
+<br/>
+<b>Explosive Melee</b> - Makes all of your melee attacks explosive.<br/>
+<b>Explosive Ammo</b> - Makes all of your fired rounds explosive.<br/>
+<b>Fire Ammo</b> - Makes all of your fired rounds ignite entities.<br/>
+<b>Rainbow Weapon</b> - Makes your weapon&#039;s tint rainbow-y.<br/>
+<b>Unlimited Ammo</b> - Unlimited Ammo.<br/>
+<b>No Reload</b> - A bottomless clip/magazine. Keep on firing for daaaays.<br/>
+<b>Object Gun</b> - An object gun, that shoots objects. Don&#039;t know what else you could want.<br/>
+<b>Object Gun Input</b> - Allows you to input a custom prop model for the object gun, that way you don&#039;t have to use soccer/footballs all the time.<br/>
+<b>Gravity Gun</b> - Turns your weapon into a Garry&#039;s Mod-esque physgun. Allows you to pick up props and what not. Throw them around. Good stuff<br/>
+<b>Delete Gun</b> - A gun that deletes entities/props you shoot at. Pretty useful<br/>
+<b>Model Swap Gun</b> - (Also Soul Switcher), Switches your model into whatever model you fire at. I assume this only works on pedestrian-type models. Would be weird accidentally becoming a car, or fire hydrant, or some other weird shit.<br/>
+<b>Breathe Fire</b> - Allows you to breathe/blow out fire, like those hot cheetos commercials you&#039;ve seen as a kid. <i>Press &quot;J&quot; to Blow. Not &quot;B&quot; to Blow.</i><br/>
+<b>Fill Ammo</b> - Fills your weapon&#039;s ammo.<br/>
+<b>Give Weapons</b> - Gives you all weapons, including debug and miscellaneous ones.<br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Multipliers</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/PFDp3Hb.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/PFDp3Hb.png"/><img src="http://i.imgur.com/SrGhTWM.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/SrGhTWM.png"/><img src="http://i.imgur.com/w8TrhVz.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/w8TrhVz.png"/><br/>
+<br/>
+<b>Accuracy Spread</b> - Modifies your bullet spread when holding the fire weapon button. A smaller number means every shot after the first will be as close to where the first hits.<br/>
+<b>Accurate Mode Accuracy</b> - Modifies your accuracy when aiming down the sights/firing over the shoulder.<br/>
+<b>RunAndGun Accuracy</b> - Modifies your accuracy when strafing (moving.)<br/>
+<b>RunAndGun Accuracy Min</b> - Modifies the minimum allowed accuracy when strafing (moving.)<br/>
+<b>Recoil Accuracy Max</b> - Modifies your max accuracy with heavy recoil.<br/>
+<b>Recoil Error Time</b> - Need to verify this one<br/>
+<b>Recoil Recovery Rate</b> - Modifies the time it takes to recover from recoil.<br/>
+<b>Recoil HeadShot Distance</b> - Need to verify this one<br/>
+<b>Min HeadShot Distance</b> - Modifies the minimum distance required for a headshot to register (?)<br/>
+<b>Max HeadShot Distance</b> - Modifies the maximum distance allowed for a headshot to register.<br/>
+<b>HeadShot Damage</b> - Modifies the damage dealt with headshots.<br/>
+<b>Damage</b> - Modifies your weapon&#039;s overall damage.<br/>
+<b>Force</b> - Modifies your weapon&#039;s overall bullet force.<br/>
+<b>Force Ped</b> - Modifies your weapon&#039;s bullet force when shooting/hitting pedestrians.<br/>
+<b>Force Vehicle</b> - Modifies your weapon&#039;s bullet force when shooting/hitting vehicles.<br/>
+<b>Force FlyingHeli</b> - Modifies your weapon&#039;s bullet force when shooting/hitting (good luck with that) airborne helicopters.<br/>
+<b>Force Mass Strength</b> - Modifies the strength of your ass, I mean mass. Less mass strength means a dump truck can&#039;t move a tiny Panto out of the way. More mass strength means a tiny Panto can move a dump truck.<br/>
+<b>Force Falloff Start</b> - Modifies the when the initial decrease in &quot;Force&quot; begins. I don&#039;t know which Force this is in relation to, or just Force in general.<br/>
+<b>Force Falloff End</b> - Modifies when the decrease in &quot;Force&quot; ends. Again, don&#039;t know which Force.<br/>
+<b>Force Falloff Min</b> - Modifies the acceptable minimum amount of Force to decrease. See above.<br/>
+<b>Projectile Force</b> - Modifies the force of player projectiles. Things like rockets, grenades (including grenade launchers), snowballs, balls, bullets, and etcetera.<br/>
+<b>Frag Impulse</b> - Modifies the splash damage area of fragmentation (explosives). Higher values please Allah.<br/>
+<b>Penetration</b> ( ͡° ͜ʖ ͡°) - Modifies the penetration value of your cold, hard, weapon. Higher values allow you to penetrate through certain walls, wood, glass, and car metal.<br/>
+<b>Batch Spread</b> - Modifies the spread of pellet-based ammunition, like shotguns. The higher the batch spread, the farther pellets spread away from eachother.<br/>
+<b>Time Between Shots</b> - Modifes your weapons&#039; rate of fire. Rapid fire Heavy Sniper and stuff like that.<br/>
+<b>Time Left Between Shots</b> - Also modifies your weapons&#039; rate of fire. Need more testing on this one. May directly correlate with &quot;Time Between Shots&quot;.<br/>
+<b>Trace Fx SP</b> - Modifies the bullet tracer intensity in singleplayer. Tracers being that little stream of light emmitted by some bullets.<br/>
+<b>Tracer Fx MP</b> - Modifies the bullet tracer intensity online. Tracers being that little stream of light emitted by some bullets.<br/>
+<b>Flash Fx SP</b> - Modifies the muzzleflash intensity in singleplayer.<br/>
+<b>Flash Fx MP</b> - Modifies the muzzleflash intensity online.<br/>
+<b>Flash Fx Scale</b> - Modifies the overall size of your muzzle flash. Good way to blind yourself.<br/>
+<b>Lock On Range</b> - Modifies the maximum distance in which you can lock onto a target, whether it be a player or vehicle.<br/>
+<b>Weapon Range</b> - Modifies the maximum effective range of your weapon.<br/>
+<b>Damage FallOff Mi</b>n - Modifies the minimum damage a projectile loses over distance.<br/>
+<b>Damage FallOff Max</b> - Modifies the maximum damage a projectile loses over distance.<br/>
+<b>Damage FallOff</b> - Modifies the standard damage a projectile loses over distance.</div>
+</div></div>
+</div><br/>
+<span style="font-size: 26px"><span style="font-family: 'century gothic'"><span style="color: #0080ff"><span style="text-decoration: underline"><b>Teleport Options</b></span></span></span>:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Teleport Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/4pzuGio.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/4pzuGio.png"/><img src="http://i.imgur.com/ETKvKEq.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/ETKvKEq.png"/><br/>
+<span style="color: #0080ff"><i>Note</i></span>:<br/>
+<ul>
+<li>Locations marked &quot;(Client-side Only)&quot; are only visible to you and not other players. This is due to how the game loads the IPLs (Item Placement files.)</li>
+</ul><b>Teleport To Waypoint</b> - Teleports you to your set waypoint.<br/>
+<b>Teleport Forward</b> - Teleports your character slightly forward. Useful for entering interiors/wall breach.<br/>
+<b>Teleport to Closest Vehicle</b> - Teleports you to the closest nearby vehicle.<br/>
+<b>Teleport to North Yankton</b> - Teleports you to North Yankton. (Client-side Only)<br/>
+<b>Teleport to Porn Yacht</b> - Teleports you to the Story Mod yacht. (Client-side Only)<br/>
+<b>Teleport to Aircraft Carrier </b>- Teleports you to the heist Aircraft Carrier. (Client-side Only)<br/>
+<b>Teleport to Hospital</b> - Teleports you to the ruined hospital from the Al Di Napoli story mode encounter.(Client-side Only)<br/>
+<b>Teleport to Life Invader Office</b> - Teleports you to the Life Invader office interior. (Client-side Only)<br/>
+<b>Teleport to Morgue</b> - Teleports you to the IAA morgue that Michael woke up in. (Client-side Only)<br/>
+<b>Teleport to Bahama Mamas West</b> - Teleports you to the unused Bahama Mamas interior. (Client-side Only)<br/>
+<b>Teleport to LSC</b> - Teleports you to the &quot;main&quot; LSC in the center of Rockford Hills.<br/>
+<b>Teleport to Maze</b> - Teleports you to the hedge maze.<br/>
+<b>Teleport to Chiliad</b> -Teleports you to the top of Chiliad.<br/>
+<b>Teleport to Zancudo</b> - Teleports you to Fort Zancudo.<br/>
+<b>Teleport to Mask Shop</b> - Teleports you to the Vespucci beach mask shop.<br/>
+<b>Teleport to Ponsonbys</b> - Teleports you to the Ponsonbys clothing shop.<br/>
+<b>Teleport to Ammunation</b> - Teleports you to an Ammunation.<br/>
+<b>Teleport to Airport</b> - Teleports you to the Los Santos International Airport.<br/>
+<b>Teleport to Waterfall</b> - Teleports you to a beautiful waterfall. <img src="styles/skype/smiley/emoticon-0152-heart.gif" class="mceSmilie" alt=":h:" title="Heart    :h:"/><br/>
+<b>Teleport to FIB</b> - Teleports you inside of the FIB building.<br/>
+<b>Teleport to Humane Labs 1</b> - Teleports you to the lower levels of the Humane Labs.<br/>
+<b>Teleport to Humane Labs 2</b> - Teleports you to the upper level of the Humane Labs.<br/>
+<b>Teleport to Zancudo Tower</b> - Teleports you inside of the Fort Zancudo Air Traffic Control tower.<br/>
+<b>Teleport to Custom Location 1</b> - Teleports you to your first custom waypoint.<br/>
+<b>Teleport to Custom Location 2</b> - Teleports you to your second custom waypoint.<br/>
+<b>Teleport to Custom Location 3</b> - Teleports you to your third custom waypoint.<br/>
+<b>Teleport to Custom Location 4</b> - Teleports you to your fourth custom waypoint.<br/>
+<b>Teleport to Custom Location 5</b> - Teleports you to your fifth custom waypoint.<br/>
+<b>Teleport to Custom Location 6</b> - Teleports you to your sixth custom waypoint.</div>
+</div><br/>
+<span style="font-size: 26px"><span style="font-family: 'century gothic'"><b><span style="color: #0080ff"><span style="text-decoration: underline">Weather Options</span></span></b></span>:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Weather Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/o9CXzZW.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/o9CXzZW.png"/><img src="http://i.imgur.com/L7llN3t.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/L7llN3t.png"/><br/>
+<span style="color: #0080ff"><i>Note</i></span>: All weather and time changes are Client-side only; as in only you can see these changes.<br/>
+<br/>
+<b>Sunny</b> - Makes the weather sunny.<br/>
+<b>Extra Sunny</b> - Makes the weather pleasantly sunny (Great for screenshots)<br/>
+<b>Cloudy</b> - Makes the weather cloudy.<br/>
+<b>Smog</b> - Makes a thick layer of smog around the city.<br/>
+<b>Foggy</b> - Makes the weather foggy.<br/>
+<b>Thunder</b> - Makes the weather very rainy with the occasional thunderstorm.<br/>
+<b>Overcast</b> - Makes the weather &quot;dullish&quot; looking, almost grey.<br/>
+<b>Light Snow</b> - Makes a light snow sprinkle over the city. (No snow on terrain.)<br/>
+<b>Snow</b> - Makes your traditional festive snow sprinkle over the city. (Now snow on terrain.)<br/>
+<b>Blizzard</b> - Makes a blizzard sprinkle the city. Also changes the skybox to a very moody tone.<br/>
+<b>Halloween</b> - Gives the sky an eerie orange tint, with rolling fog. Limiting visibility.<br/>
+<b>Xmas Snow</b> - Turns on the festive snow shaders. Snow on the ground and all.<br/>
+<b>Night Time</b> - Changes the time to nighttime (00:00).<br/>
+<b>Day Time</b> - Changes the time to daytime (12:00).<br/>
+<b>Earth Gravity</b> - Used for reverting back to normal gravity from <b>Moon Gravity</b>.<br/>
+<b>Moon Gravity</b> - Zero gravity effect, just like the moon.</div>
+</div><br/>
+<span style="font-size: 26px"><span style="color: #0080ff"><span style="text-decoration: underline"><b><span style="font-family: 'century gothic'">Object Options</span></b></span></span>:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Object Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/ZkXJFOc.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/ZkXJFOc.png"/><br/>
+Alright, so every single object from Community has been incorporated into Authority. For a full list of these objects please visit the following wiki page: <a href="https://Community.org/community/index.php?wiki/object-prop-list/" class="internalLink">Click Me</a><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Current Object (After Selecting an Object from the Object Options List)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/YoL1q45.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/YoL1q45.png"/><br/>
+<b>Spawn</b> - Spawns the current selected/ghosted object.<br/>
+<b>X</b> - Modifies the object&#039;s position in respect to its X-Axis (Left, Right.)<br/>
+<b>Y</b>- Modifies the object&#039;s position in respect to its Y-Axis (Forward, Back.)<br/>
+<b>Z</b> - Modifies the object&#039;s position in respect to its Z-Axis (Up, Down.)<br/>
+<b>Pitch</b> - Tilts the object up or down on its axis.<br/>
+<b>Roll</b> - Rolls the object left or right on its axis.<br/>
+<b>Yaw</b> - Swivels the object left or right on its axis.<br/>
+<b>Delete</b> - Deletes the current selected object.<br/>
+<b>Delete All</b> - Deletes all player-spawned objects.</div>
+</div></div>
+</div><br/>
+<span style="color: #0080ff"><span style="text-decoration: underline"><b><span style="font-family: 'century gothic'"><span style="font-size: 26px">Settings</span></span></b></span></span><span style="font-size: 26px">:</span><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Settings Menu (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/aSLXwwb.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/aSLXwwb.png"/><img src="http://i.imgur.com/NZTBcDj.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/NZTBcDj.png"/><br/>
+<br/>
+<b>Disable Controls</b> - Prevents input from mouse\keyboard\controller while the Authority GUI is open. Helps prevent accidental movement and actions. &#039;Cause why not.<br/>
+<b>Display FPS</b> - Displays your current in-game FPS (Frames Per Second). For those who rely on incompatible FPS overlays.<br/>
+<b>Disable Phone</b> - Disables your phone from ringing and shit. VERY useful, it&#039;s like a blessing from Maf. Now creepy Uncle Lester can fuck off, along with Dom, the cheeky cunt.<br/>
+<b>Save Custom Location 1</b> - Saves your current coordinates as a custom teleport location.<br/>
+<b>Save Custom Location 2</b> - Saves your current coordinates as a custom teleport location.<br/>
+<b>Save Custom Location 3</b> - Saves your current coordinates as a custom teleport location.<br/>
+<b>Save Custom Location 4</b> - Saves your current coordinates as a custom teleport location.<br/>
+<b>Save Custom Location 5</b> - Saves your current coordinates as a custom teleport location.<br/>
+<b>Save Custom Location 6</b> - Saves your current coordinates as a custom teleport location.<br/>
+<b>Drop Amount</b> - Changes the money drop amount (Default is 2k/entity) (Only works in Singleplayer)<br/>
+<b>Money Bags </b>(<span style="color: #ff0000">RISKY</span>) - When toggled on, this changes the money drop object into money bags. Allowing you to use a drop amount over $2,000. This also makes money register to your &quot;Jobs&quot; income on Social Club.<br/>
+<b>Menu R</b> - Alters the <span style="color: #ff0000">Red</span> value of the UI.<br/>
+<b>Menu G</b> - Alters the <span style="color: #00b300">Green</span> value of the UI.<br/>
+<b>Menu B</b> - Alters the <span style="color: #0080ff">Blue</span> value of the UI.<br/>
+Menu X - Allows you to set the GUI&#039;s position in relation to its x-coordinate.<br/>
+<b>Save Colors</b> - Saves the current UI RGB settings from above.<br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Step Options Menu Preview (Click Me)</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="http://i.imgur.com/k5KonWs.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="http://i.imgur.com/k5KonWs.png"/><br/>
+<span style="color: #0080ff"><i>Note</i></span>: Use float for fine tuned multiplier increments (to the decimal). Use int/integer for untuned multiplier increments (whole numbers).<br/>
+<br/>
+<b>Float Step 0.01 </b>- Use this to fine tune multipliers by increments of 0.01.<br/>
+<b>Float Step 0.1 </b>- Use this to fine tune multipliers by increments of 0.1.<br/>
+<b>Float Step 1.0 </b>- Use this to fine tune multipliers by increments of 1.0.<br/>
+<b>Float Step 10.0 </b>- Use this to fine tune multipliers by increments of 10.0.<br/>
+<b>Float Step 100.0 </b>- Use this to fine tune multipliers by increments of 100.0.<br/>
+<b>Float Step 1000.0 </b>- Use this to fine tune multipliers by increments of 1000.0.<br/>
+<b>Int Step 1 </b>- Use this to tune multipliers by increments of 1.<br/>
+<b><b>Int Step 10 </b></b>- Use this to tune multipliers by increments of 10.<br/>
+<b><b><b>Int Step 100 </b></b></b>- Use this to tune multipliers by increments of 100.<br/>
+<b><b><b><b>Int Step 1000 </b></b></b></b>- Use this to tune multipliers by increments of 1000.</div>
+</div></div>
+</div><br/>
+<br/>
+<br/>
+<i><span style="color: #0080ff">Last Revision</span>: 1 January, 201<span style="text-decoration: line-through">6</span>7 </i><br/>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Revision Log</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">------------------------------<br/>
+<b>1 January</b>, <b>2016</b> - USER:<br/>
+<ul>
+<li>Updated and overhauled for the 2.0.0 update<br/>
+</li>
+<li>Yes.</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 2.0.0</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Improved Teleport to Waypoint<br/>
+Improved PED Money Drop<br/>
+Improved All Spawning<br/>
+Improved Objective Hotkey (Normal hotkey + M for missions objective/Normal hotkey + C for crate objective)<br/>
+Added Input To all Scrollers<br/>
+Added Custom UI Textures<br/>
+Added All PED Models in sections to change model<br/>
+Added Torque Multiplier<br/>
+Added Engine Power Multiplier<br/>
+General Performance Improvements</div>
+</div><br/>
+------------------------------<br/>
+<b>18 December</b>, <b>2016</b> - USER:<br/>
+<ul>
+<li>No big necessary changes for 1.9.7.</li>
+<li>TP 2 Me, Handling, and Boost on Horn fixed.</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.7</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Fixed Handling Options<br/>
+Fixed TP 2 Me<br/>
+Fixed Boost on Horn<br/>
+Small improvement to Teleport to Waypoint</div>
+</div>------------------------------<br/>
+<b>15 December, 2016</b> - USER:<br/>
+<ul>
+<li>No big necessary changes for 1.9.6.</li>
+<li>Name changer, of the radar, and weapon multipliers fixed.</li>
+<li>New Import/Export vehicles added to the Vehicle Spawner.</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.6</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Added New Vehicles<br/>
+Fixed Name Changer<br/>
+Fixed Off The Radar<br/>
+Fixed Weapon Multipliers<br/>
+Fixed UI Bug with scrolling down</div>
+</div>------------------------------<br/>
+<b>15 December, 2016</b> - USER:<br/>
+<ul>
+<li>No big necessary changes for 1.9.5. <img src="https://facepunch.com/fp/emotes_p/toadleave.gif" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://facepunch.com/fp/emotes_p/toadleave.gif"/></li>
+<li>Name changer, off the radar, handling, and weapon multipliers will crash your game.</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.5</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Updated for 1.37<br/>
+NOTE: Some options will not work until i post the next version. I wanted to get you guys something to use while waiting.</div>
+</div>------------------------------<br/>
+<b>8 December, 2016</b> - USER:<br/>
+<ul>
+<li>Updated for 1.9.4</li>
+<li>Was very <i>very</i> drowsy during this, sorry for any possible mistakes</li>
+<li>Redid all <b>41</b> images, again. <span style="font-size: 9px">pls david no more ui revisions</span></li>
+<li>Huzzah for even smaller UI</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.4</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Added 10 Vehicle Save Slots<br/>
+Added Map Mods<br/>
+Added Gravity Gun<br/>
+Added Delete Gun<br/>
+Added Model Swap Gun<br/>
+Added Attachment Detection<br/>
+Added Disable Phone Toggle<br/>
+Improved Vehicle Mod Section<br/>
+Improved Vehicle Spawner Section<br/>
+Random BugFixes</div>
+</div>------------------------------<br/>
+<b>1 December, 2016</b> - USER:<br/>
+<ul>
+<li>Updated for 1.9.3</li>
+<li>Redid all 36 images again. rip</li>
+<li>Huzzah for smaller UI</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.3</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Added Boost On Horn<br/>
+Added Magic Car(Particle FX come out the back)<br/>
+Added Bodyguards<br/>
+Fixed issue with flicker in the ui<br/>
+Fixed bug with controller open binds<br/>
+fixed speedo<br/>
+Disabled vehicle extras while i work on them<br/>
+Disabled 3d esp while i work on it<br/>
+Disabled gravity gun while i work on it</div>
+</div>------------------------------<br/>
+<b>29 November, 2016</b> - USER:<br/>
+<ul>
+<li>No big necessary changes for 1.9.2</li>
+<li>Changed version header to 1.9.2</li>
+</ul><i>------------------------------</i><br/>
+<b>28 November, 2016</b><i> - </i>USER:<br/>
+<ul>
+<li>Still fucked up, hope I didn&#039;t screw wnything</li>
+<li>Updated for Authority 1.9,1</li>
+<li>Updated all Preveiw Images for &quot;new&quot; bulbous Ui. Seriouly this thin is fuciing huge</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.1</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Removed DirectX Hook (this basically means you can change resolution, be in fullscreen and use overlays)<br/>
+UI is now drawn with natives (yes it is safe)<br/>
+Revamped the vehicle mod section<br/>
+General bug fixes...</div>
+</div><i>------------------------------</i><br/>
+<b>25 November, 2016</b> - USER:<br/>
+<ul>
+<li>Updated the wiki for Authority 1.9.0</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.9.0</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Added Vehicle Spawner<br/>
+Added Part the Sea<br/>
+Added Display FPS<br/>
+Added more Weapon Multipliers<br/>
+Added Breathe Fire<br/>
+Added Earth and Moon Gravity<br/>
+Added more objects<br/>
+Added teleport player to me<br/>
+Added ride player<br/>
+Added send attackers<br/>
+Added risky toggle for money bags(able to set more than 2k)<br/>
+Improved scrolling<br/>
+Imrpoved 2D ESP<br/>
+Fixed mobile radio<br/>
+Fixed some other stuff</div>
+</div>------------------------------<br/>
+<b>18 November, 2016</b> - USER:<br/>
+<ul>
+<li>Updated the wiki for Authority 1.8.0 - 1.8.1</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added/Changed Features for 1.80 - 1.8.1</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Updated settings fix /fix menu not opening.<br/>
+Added launch other players vehicle<br/>
+Added Unlock ALL (Risky)<br/>
+Added custom input for object gun<br/>
+Added xmas snow<br/>
+Added tp to waypoint hotkey F7<br/>
+Added tp to mission objective hotkey F6<br/>
+added clean player/refill health hotkey F5<br/>
+Added Invisiblity<br/>
+Added particle fx to teleports<br/>
+Added menu rgb adjust<br/>
+Added open key bind and other hotkeys to settings.ini<br/>
+Added Missing Weapons to give weapons<br/>
+Improved Vehicle Rockets (Will fire on horn press for controllers now)<br/>
+Fixed Unlimited Ammo Bug<br/>
+Fixed Movement speed bug<br/>
+Fixed clean ped<br/>
+Fixed Bug with God Mode not turnning off when you turn superman off<br/>
+Fixed bug where vehicle mods would not set before maxing vehicle</div>
+</div><ul>
+<li>New hotkeys mapped out for controllers and keyboard.</li>
+</ul>------------------------------<br/>
+<b>16 November, 2016</b> - USER:<br/>
+<ul>
+<li>General cleaning and uniformity</li>
+</ul>------------------------------<br/>
+<b>12 November, 2016</b> - USER:<br/>
+<ul>
+<li>Updated the wiki for Authority 1.7.8.</li>
+</ul>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" title="Click to reveal or hide spoiler" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Added Features in 1.7.8</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Added Mobile Radio<br/>
+Added Clean Player<br/>
+Added Movement Speed Multiplier<br/>
+Added Time Trial money method<br/>
+Added Badsport Protection<br/>
+Added Max Stats option (Online)<br/>
+Added Destroyed Vehicles counter<br/>
+Added Money Drop Delay<br/>
+Added Spectate Mode<br/>
+Added Kill Peds<br/>
+Added Copy Player&#039;s Outfit<br/>
+Added No Vehicle Gravity<br/>
+Added Object Gun<br/>
+General Bug Fixes<br/>
+Added clear forced animation hotkey - F9<br/>
+Made Inf Ammo/No Reload Toggle<br/>
+Improved Karma<br/>
+Added Vehicle Plate Text Editor<br/>
+Small Lag Bug Fix due to destroyed vehicle amount display<br/>
+Small Bug Fix for current online player menu<br/>
+Some Other stuff too much to list/Bugfixes</div>
+</div><ul>
+<li>Removed some obsolete options/redundancies</li>
+</ul>------------------------------<br/>
