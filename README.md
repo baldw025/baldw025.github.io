@@ -4,4 +4,4 @@ Pretty much all of my personal projects and other various trinkets live here, wh
 
 _Feel free to view and explore_
 
-[LinkedIn](https://www.linkedin.com/in/baldw025/)
+>[LinkedIn](https://www.linkedin.com/in/baldw025/)
