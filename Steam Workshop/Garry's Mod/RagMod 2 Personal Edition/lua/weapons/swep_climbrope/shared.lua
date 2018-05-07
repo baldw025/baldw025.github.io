@@ -1,0 +1,92 @@
+SWEP.Author					= "DarkShadow6"
+SWEP.Contact				= "tehdarkshadow6@gmail.com"
+SWEP.Purpose				= "Get to unreachable places!"
+SWEP.Instructions			= "Use primary attack to attach a rope to whatever you're looking at. Left to reel in the rope, right to let it go."
+
+SWEP.ViewModel				= ""
+SWEP.WorldModel				= ""
+SWEP.AnimPrefix				= "melee"
+SWEP.HoldType				= "melee"
+
+SWEP.Category				= "RagMod"
+SWEP.Spawnable				= true
+SWEP.AdminSpawnable			= true
+
+SWEP.Primary.ClipSize		= -1
+SWEP.Primary.DefaultClip	= -1
+SWEP.Primary.Automatic		= false
+SWEP.Primary.Ammo			= "None"
+
+SWEP.Secondary.ClipSize		= -1
+SWEP.Secondary.DefaultClip	= -1
+SWEP.Secondary.Automatic	= false
+SWEP.Secondary.Ammo			= "None"
+
+if SERVER then
+	AddCSLuaFile("shared.lua")
+	SWEP.Weight				= 2
+	SWEP.AutoSwitchTo		= false
+	SWEP.AutoSwitchFrom		= false
+end
+
+if CLIENT then
+	SWEP.PrintName			= "Climb Rope"
+	SWEP.Slot				= 5
+	SWEP.SlotPos			= 0
+	SWEP.DrawAmmo			= false
+	SWEP.DrawCrosshair		= true
+	SWEP.DrawWeaponInfoBox	= false
+	SWEP.BounceWeaponIcon   = false
+end
+
+function SWEP:Initialize()
+	self:SetWeaponHoldType(self.HoldType)
+end
+
+function SWEP:PrimaryAttack()
+	local Ply = self.Owner
+	if SERVER and IsValid(Ply) and not Ply.rm_Ragdoll then
+		local Trace = util.TraceLine(
+			{
+				start = Ply:GetShootPos(),
+				endpos = Ply:GetShootPos() + Ply:EyeAngles():Forward() * 800,
+				filter = Ply,
+				mask = MASK_SOLID
+			}
+		)
+		if Trace.Hit then
+			rm.PlayerRagdolize(Ply)
+			Ply.rm_UsingClimbRope = true
+			if IsValid(Ply.rm_Ragdoll) then
+				local Length = math.max(math.ceil(Trace.HitPos:Distance(Ply.rm_Ragdoll:GetPos())), 20)
+				local StartLength = Length
+				local Constraint, Rope = constraint.Elastic(Trace.Entity, Ply.rm_Ragdoll, Trace.PhysicsBone, 1, Trace.Entity:WorldToLocal(Trace.HitPos), Vector(6, -3, 0), 5000, 200, 0, "cable/rope", 2, true)
+				local function Check()
+					timer.Simple(FrameTime(), function()
+						if IsValid(Ply) then
+							if Ply.rm_Alive and IsValid(Constraint) and IsValid(Rope) then
+								if Ply:KeyDown(IN_MOVELEFT) then
+									Length = math.max(Length - 1, 20)
+								elseif Ply:KeyDown(IN_MOVERIGHT) then
+									Length = math.min(Length + 3, 1500)
+								end
+								Constraint:Fire("SetSpringLength", Length)
+								Rope:Fire("SetLength", Length + 30)
+								Check()
+							else
+								Ply.rm_UsingClimbRope = false
+							end
+						end
+					end)
+				end
+				Check()
+			end
+		end
+	end
+end
+
+function SWEP:SecondaryAttack()
+end
+
+function SWEP:Reload()
+end
