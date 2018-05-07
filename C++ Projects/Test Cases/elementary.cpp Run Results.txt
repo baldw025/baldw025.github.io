@@ -1,0 +1,38 @@
+How many questions do you want to solve?: 6
+0 + 4 = 4
+Good Job
+
+5 + 6 = 11
+Good Job
+
+5 + 4 = 9
+Good Job
+
+0 + 4 = 4
+Good Job
+
+7 + 9 = 16
+Good Job
+
+9 + 0 = 9
+Good Job
+
+You answered 6 questions correctly and 0 questions incorrectly.
+******************************************
+How many questions do you want to solve?: 5
+5 + 5 = 11
+Correct answer is 10
+
+4 + 3 = 8
+Correct answer is 7
+
+6 + 6 = 12
+Good Job
+
+2 + 8 = 10
+Good Job
+
+6 + 9 = 15
+Good Job
+
+You answered 3 questions correctly and 2 questions incorrectly.

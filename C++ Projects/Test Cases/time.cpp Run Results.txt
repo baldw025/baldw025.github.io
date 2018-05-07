@@ -1,0 +1,9 @@
+*Test 1:
+Enter the time in seconds: 29110
+
+8 hours 5 minutes 10 seconds
+
+*Test 2:
+Enter the time in seconds: 51023
+
+14 hours 10 minutes 23 seconds

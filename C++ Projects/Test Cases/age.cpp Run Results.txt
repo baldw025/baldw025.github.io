@@ -1,0 +1,43 @@
+Enter an age: 20
+Enter an age: 0
+Enter an age: 10
+Enter an age: 5
+Enter an age: -1
+
+8.75 (average)
+3 (minors)
+1 (adults)
+20 (oldest)
+0 (youngest)
+**************************************************
+Enter an age: 101
+Enter an age: 105
+Enter an age: -5
+
+103 (average)
+0 (minors)
+2 (adults)
+105 (oldest)
+101 (youngest)
+**************************************************
+Enter an age: 10
+Enter an age: -9
+
+10 (average)
+1 (minors)
+0 (adults)
+10 (oldest)
+10 (youngest)
+**************************************************
+Enter an age: 0
+Enter an age: 0
+Enter an age: -2
+
+0 (average)
+2 (minors)
+0 (adults)
+0 (oldest)
+0 (youngest)
+**************************************************
+Enter an age: -1
+No ages were entered.

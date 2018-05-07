@@ -1,0 +1,71 @@
+How many games of 'Craps' do you wish to play?
+Games: 100
+
+Win %     Lose %
+50.000    50.000
+#################
+How many games of 'Craps' do you wish to play?
+Games: 100
+
+Win %     Lose %
+47.000    53.000
+#################
+How many games of 'Craps' do you wish to play?
+Games: 100
+
+Win %     Lose %
+43.000    57.000
+**************************************************
+How many games of 'Craps' do you wish to play?
+Games: 10000
+
+Win %     Lose %
+49.860    50.140
+#################
+How many games of 'Craps' do you wish to play?
+Games: 10000
+
+Win %     Lose %
+49.460    50.540
+#################
+How many games of 'Craps' do you wish to play?
+Games: 10000
+
+Win %     Lose %
+49.630    50.370
+**************************************************
+How many games of 'Craps' do you wish to play?
+Games: 1000000
+
+Win %     Lose %
+49.848    50.152
+#################
+How many games of 'Craps' do you wish to play?
+Games: 1000000
+
+Win %     Lose %
+49.684    50.316
+#################
+How many games of 'Craps' do you wish to play?
+Games: 1000000
+
+Win %     Lose %
+49.725    50.275
+**************************************************
+How many games of 'Craps' do you wish to play?
+Games: 100000000
+
+Win %     Lose %
+49.754    50.246
+#################
+How many games of 'Craps' do you wish to play?
+Games: 100000000
+
+Win %     Lose %
+49.761    50.239
+#################
+How many games of 'Craps' do you wish to play?
+Games: 100000000
+
+Win %     Lose %
+49.753    50.247

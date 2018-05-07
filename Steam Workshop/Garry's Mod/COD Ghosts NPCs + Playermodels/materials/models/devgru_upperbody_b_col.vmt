@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\jwk987\cod\ghost\devgru_upperbody_b_col"
+	//"$bumpmap"		"models\jwk987\cod\ghost\bump"		
+	//"$alphatest"	"1"
+	"$nocull"		"1"
+	//"$translucent"	"1"
+	
+	"$phong" 		"1"
+	"$phongboost"	"1"	
+	"$phongfresnelranges" "[0.2 0.15 0.15]"
+	"$phongexponent" "5"
+	
+	$rimlight 					1										
+	$rimlightexponent 			20								
+	$rimlightboost 				0.2
+}

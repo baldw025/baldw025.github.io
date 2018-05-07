@@ -1,0 +1,75 @@
+Enter today's date (mm/dd/yy): 10/04/17
+
+Enter your company name: Cal State San Marcos
+
+Enter the quantity you would like to purchase: -1
+
+Invalid quantity.
+**************************************************
+Enter today's date (mm/dd/yy): 10/04/2017
+
+Enter your company name: Cal State San Marcos
+
+Enter the quantity you would like to purchase: 0
+
+Hope you decide to buy our software in the future.
+
+Enter today's date (mm/dd/yy): 10/04/17
+
+Enter your company name: Little Covfefe Shop
+
+Enter the quantity you would like to purchase: 1
+
+Invoice for Little Covfefe Shop
+
+Price before discount         $     99.00
+Discount                      $      0.00
+Total Due                     $     99.00
+**************************************************
+Enter today's date (mm/dd/yy): 10/04/17
+
+Enter your company name: Little Covfefe Shop
+
+Enter the quantity you would like to purchase: 10
+
+Invoice for Little Covfefe Shop
+
+Price before discount         $    990.00
+Discount                      $    198.00
+Total Due                     $    792.00
+**************************************************
+Enter today's date (mm/dd/yy): 10/04/17
+
+Enter your company name: Little Coffee Shop
+
+Enter the quantity you would like to purchase: 20
+
+Invoice for Little Coffee Shop
+
+Price before discount         $   1980.00
+Discount                      $    594.00
+Total Due                     $   1386.00
+**************************************************
+Enter today's date (mm/dd/yy): 10/04/17
+
+Enter your company name: Give Money Thanks
+
+Enter the quantity you would like to purchase: 50
+
+Invoice for Give Money Thanks
+
+Price before discount         $   4950.00
+Discount                      $   1980.00
+Total Due                     $   2970.00
+**************************************************
+Enter today's date (mm/dd/yy): 10/04/17
+
+Enter your company name: Apple
+
+Enter the quantity you would like to purchase: 100
+
+Invoice for Apple
+
+Price before discount         $   9900.00
+Discount                      $   4950.00
+Total Due                     $   4950.00

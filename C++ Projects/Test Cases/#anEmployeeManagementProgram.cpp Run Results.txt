@@ -1,0 +1,97 @@
+------------------------- readData() --------------------------------------------------------------
+There are 11 male and 5 female employees in this list.
+
+------------------------- printEmployee() -------------------------------------------------------
+Ada         Agusta      F           10.00       19569       28
+
+------------------------- printEmployee() -------------------------------------------------------
+Issac       Asimov      M           18.25       63948       58
+
+------------------------- printAllEmp() ----------------------------------------------------------
+Issac       Asimov      M           18.25       63948       58
+Humphry     Bogart      M           20.00       48482       56
+Albert      Einstein    M           11.10       47474       67
+James       Kirk        M           18.85       82828       46
+Ted         Kopple      M           22.25       37376       48
+David       Letterman   M           15.50       19338       47
+Monty       Python      M           33.35       80939       44
+Roger       Rabbit      M           15.00       91343       24
+Rod         Serling     M           55.50       93939       56
+Luke        Skywalker   M           19.95       12343       35
+Mike        Smith       M           23.35       10000       30
+
+------------------------- printAllEmp() ----------------------------------------------------------
+Ada         Agusta      F           10.00       19569       28
+Emmylou     Harris      F           33.50       72647       38
+Stevis      Nicks       F           18.85       23459       38
+Sally       Ride        F           25.50       91123       30
+Kit         Ross        F           11.00       20000       21
+
+------------------------- outfileArray() ----------------------------------------------------------
+Enter the output file name: males.dat
+That file does not exist, would you like to create it? Enter Y/N: y
+All male employees have been listed and saved in males.dat
+
+------------------------- outfileArray() ----------------------------------------------------------
+Enter the output file name: females.dat
+That file does not exist, would you like to create it? Enter Y/N: Y
+All female employees have been listed in females.dat
+
+------------------------- findOldest() ------------------------------------------------------------
+The oldest male employee is Albert (67).
+
+------------------------- giveRaise() -------------------------------------------------------------
+Here are the new employee rates:
+Ada         Agusta      F           10.55       19569       28
+Emmylou     Harris      F           35.34       72647       38
+Stevis      Nicks       F           19.89       23459       38
+Sally       Ride        F           26.90       91123       30
+Kit         Ross        F           11.61       20000       21
+
+------------------------- giveRaise() -------------------------------------------------------------
+Issac       Asimov      M           19.16       63948       58
+Humphry     Bogart      M           21.00       48482       56
+Albert      Einstein    M           11.65       47474       67
+James       Kirk        M           19.79       82828       46
+Ted         Kopple      M           23.36       37376       48
+David       Letterman   M           16.27       19338       47
+Monty       Python      M           35.02       80939       44
+Roger       Rabbit      M           15.75       91343       24
+Rod         Serling     M           58.27       93939       56
+Luke        Skywalker   M           20.95       12343       35
+Mike        Smith       M           24.52       10000       30
+
+------------------------- giveRaiseToOneEmployee() ---------------------------------------------
+Here is Emmylou's new rate:
+Emmylou     Harris      F           36.05       72647       38
+
+------------------------- giveRaiseToOneEmployee() ---------------------------------------------
+Here is Issac's new rate:
+Issac       Asimov      M           28.74       63948       58
+
+------------------------- combineArray() --------------------------------------------------------------
+Here is the new combined employee array:
+Issac       Asimov      M           28.74       63948       58
+Humphry     Bogart      M           21.00       48482       56
+Albert      Einstein    M           11.65       47474       67
+James       Kirk        M           19.79       82828       46
+Ted         Kopple      M           23.36       37376       48
+David       Letterman   M           16.27       19338       47
+Monty       Python      M           35.02       80939       44
+Roger       Rabbit      M           15.75       91343       24
+Rod         Serling     M           58.27       93939       56
+Luke        Skywalker   M           20.95       12343       35
+Mike        Smith       M           24.52       10000       30
+Ada         Agusta      F           10.55       19569       28
+Emmylou     Harris      F           36.05       72647       38
+Stevis      Nicks       F           19.89       23459       38
+Sally       Ride        F           26.90       91123       30
+Kit         Ross        F           11.61       20000       21
+
+------------------------- findEmp() -------------------------------------------------------------------
+Enter the Employee's unique ID number: 48482
+Employee ID: '48482' is registered to Humphry Bogart.
+
+------------------------- findEmp() -------------------------------------------------------------------
+Enter the Employee's unique ID number: 1111
+The Employee ID: '1111' is not registered in our database.

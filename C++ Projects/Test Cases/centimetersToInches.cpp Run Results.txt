@@ -1,0 +1,11 @@
+Hello! Please input a length in centimeters. I will then convert and round it to inches:
+12
+Your measurement is 4.72441 inches, rounded to 5. This is equivalent to 0 yards, 0 feet, and 5 inches.
+**************************
+Hello! Please input a length in centimeters. I will then convert and round it to inches:
+2.54
+Your measurement is 0.787402 inches, rounded to 1. This is equivalent to 0 yards, 0 feet, and 1 inches.
+**************************
+Hello! Please input a length in centimeters. I will then convert and round it to inches:
+256
+Your measurement is 100.787 inches, rounded to 101. This is equivalent to 2 yards, 2 feet, and 5 inches.

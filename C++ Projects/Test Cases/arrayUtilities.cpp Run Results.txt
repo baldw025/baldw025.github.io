@@ -1,0 +1,82 @@
+===============
+1: Fill the Array
+2: Print the Array
+3: Calculate the Average
+4: Show the Highest Number
+5: Double Each Number
+6: Selection Sort in Descending Order
+7: Sequential Search
+8: Show Bar Graph
+9: Quit
+===============
+Enter your choice: 1
+
+Enter a number: 10
+Enter a number: 8
+Enter a number: 16
+Enter a number: 40
+Enter a number: 5
+**************************************************
+Enter your choice: 3
+
+The average number is 15.8
+**************************************************
+Enter your choice: 4
+
+The highest number is 40
+**************************************************
+Enter your choice: 2
+
+The numbers in the array are: 10 8 16 40 5
+**************************************************
+Enter your choice: 8
+
+Slot 0: *
+Slot 1:
+Slot 2: *
+Slot 3: ****
+Slot 4:
+**************************************************
+Enter your choice: 5
+
+The array indices have been doubled.
+**************************************************
+Enter your choice: 2
+
+The numbers in the array are: 20 16 32 80 10
+**************************************************
+Enter your choice: 8
+
+Slot 0: **
+Slot 1: *
+Slot 2: ***
+Slot 3: ********
+Slot 4: *
+**************************************************
+Enter your choice: 6
+
+The array has been sorted from greatest to least.
+**************************************************
+Enter your choice: 2
+
+The numbers in the array are: 80 32 20 16 10
+**************************************************
+Enter your choice: 7
+
+Please enter a number to search for: 20
+
+20 was found at index 2
+**************************************************
+Enter your choice: 7
+
+Please enter a number to search for: 30
+
+30 was not found in the array.
+**************************************************
+Enter your choice: 10
+
+Invalid Choice. Please enter a selection choice ranging from 1 - 9.
+**************************************************
+Enter your choice: 9
+
+Thank you for using our system.

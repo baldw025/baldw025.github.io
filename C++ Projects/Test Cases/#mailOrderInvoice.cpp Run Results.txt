@@ -1,0 +1,128 @@
+Enter the customer's account number: 1234
+
+Enter the month, day, and year of this sale (MM/DD/YYYY):
+Month (MM): 2
+Day (DD): 22
+Year (YYYY): 2008
+
+Enter the customer's county code
+============================
+Input 'S' for San Diego
+Input 'O' for Orange County
+Input 'L' for L.A. County
+============================
+
+County Code: s
+
+Do you want to order an item? Enter Y or N: y
+Enter a price: 45.55
+Enter a weight: 10
+
+Do you want to order another item? Enter Y or N: y
+Enter a price: 100.00
+Enter a weight: 12
+
+Do you want to order another item? Enter Y or N: y
+Enter a price: 90.20
+Enter a weight: 6
+
+Do you want to order another item? Enter Y or N: n
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ACCOUNT NUMBER                              COUNTY
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+1234                                     San Diego
+
+DATE OF SALE 2/22/2008
+
+Total Sale Amount:                $ 235.75
+Discount:                         $  11.79
+Sales Tax:                        $  17.36
+Shipping:                         $   5.30
+Total Due:                        $ 246.62
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**************************************************
+Enter the customer's account number: 2345
+
+Enter the month, day, and year of this sale (MM/DD/YYYY):
+Month (MM): 6
+Day (DD): 15
+Year (YYYY): 2007
+
+Enter the customer's county code
+============================
+Input 'S' for San Diego
+Input 'O' for Orange County
+Input 'L' for L.A. County
+============================
+
+County Code: l
+
+Do you want to order an item? Enter Y or N: y
+Enter a price: 157.50
+Enter a weight: 15
+
+Do you want to order another item? Enter Y or N: n
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ACCOUNT NUMBER                              COUNTY
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+2345                                   Los Angeles
+
+DATE OF SALE 6/15/2007
+
+Total Sale Amount:                $ 157.50
+Discount:                         $  15.75
+Sales Tax:                        $  11.69
+Shipping:                         $   5.00
+Total Due:                        $ 158.44
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**************************************************
+Enter the customer's account number: 6754
+
+Enter the month, day, and year of this sale (MM/DD/YYYY):
+Month (MM): 12
+Day (DD): 24
+Year (YYYY): 2007
+
+Enter the customer's county code
+============================
+Input 'S' for San Diego
+Input 'O' for Orange County
+Input 'L' for L.A. County
+============================
+
+County Code: o
+
+Do you want to order an item? Enter Y or N: y
+Enter a price: 100.00
+Enter a weight: 20
+
+Do you want to order another item? Enter Y or N: y
+Enter a price: 100.00
+Enter a weight: 20
+
+Do you want to order another item? Enter Y or N: y
+Enter a price: 100.00
+Enter a weight: 20
+
+Do you want to order another item? Enter Y or N: y
+Enter a price: 150.00
+Enter a weight: 15
+
+Do you want to order another item? Enter Y or N: n
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ACCOUNT NUMBER                              COUNTY
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+6754                                 Orange County
+
+DATE OF SALE 12/24/2007
+
+Total Sale Amount:                $ 450.00
+Discount:                         $  67.50
+Sales Tax:                        $  29.64
+Shipping:                         $   9.25
+Total Due:                        $ 421.39
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+**************************************************

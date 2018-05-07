@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\jwk987\cod\ghost\hesh_ranger_headgear_ab_col"
+	//"$bumpmap"		"models\jwk987\cod\ghost\bump"		
+	//"$alphatest"	"1"
+	"$nocull"		"1"
+	//"$translucent"	"1"
+
+	"$phong" 		"1"
+	"$phongboost"	"1"	
+	"$phongfresnelranges" "[0.3 0.1 0.1]"
+	"$phongexponent" "5"
+	
+	$rimlight 					1										
+	$rimlightexponent 			50								
+	$rimlightboost 				0.25
+}

@@ -1,0 +1,9 @@
+*Test 1:
+Enter a lowercase letter:
+g
+The uppercase is G.
+
+*Test 2:
+Enter a lowercase letter:
+b
+The uppercase is B.

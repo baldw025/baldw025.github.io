@@ -1,0 +1,315 @@
+<style>
+/*-----"Global"-----*/
+a.username[href="index.php?members/redacted"] span
+{
+color: #fb71ea !important;
+text-shadow: 0px 2px 5px #fb71ea;
+background-image: url(https://i.imgur.com/redacted.gif);
+}
+a.username[href="index.php?members/redacted/"] span:hover
+{
+text-shadow: 0px 2px 10px #fb71ea;
+}
+a.username[href="index.php?members/redacted/"] span:after
+{
+ content: url('https://i.imgur.com/redacted.png');
+}
+
+/*-----Siropu Chat Messages-----*/
+[href="index.php?members/redacted/"]+[role="button"] span,#siropuChat .username[href="https://redacted.com/index.php?members/redacted/"]
+{
+color: #fb71ea !important;
+text-shadow: 0px 2px 5px #fb71ea;
+background-image: url('https://i.imgur.com/redacted.gif');
+}
+[href="index.php?members/redacted/"]+[role="button"] span:after,#siropuChat .username[href="https://redacted.com/index.php?members/redacted/"]:after
+{
+content: url('https://i.imgur.com/redacted.png');
+}
+[href="index.php?members/redacted/"]+[role="button"] span:hover, #siropuChat .username[href="https://redacted.com/index.php?members/redacted/"]:hover
+{
+text-shadow: 0px 2px 10px #fb71ea;
+}
+
+/*-----Siropu Chat Message Color/Experimental-----*/
+[href="index.php?members/redacted/"]~.siropuChatMessage
+{
+color: #00ffa6;
+}
+[href="index.php?members/redacted/"]~.siropuChatMessage>.bbCodeBlock 
+{
+color: rgb(186, 186, 186);
+}
+
+/*-----Siropu Chat Bar-----*/
+[data-userid="redacted"]>.username span
+{
+color:#fb71ea !important;
+text-shadow: 0px 2px 5px #fb71ea;
+background-image: url(https://i.imgur.com/redacted.gif);
+}
+[data-userid="redacted"]>.username span:after
+{
+content: url('https://i.imgur.com/redacted.png');
+}
+
+/*-----Siropu Chat User Status-----*/
+[href="index.php?members/redacted/"]~.siropuChatUserStatus
+{
+animation: derAdministrator 1.5s ease 0s infinite normal;
+opacity: 0.7;
+color:red;
+}
+
+/*-----Banners-----*/ 
+a.username[href="index.php?members/redacted/"]~.bannerStaff
+{
+background-color: #fb71ea;
+-webkit-mask-image: linear-gradient(-69deg, rgba(0,0,0,.6) 35%, #000 55%, rgba(0,0,0,.6) 100%);
+-webkit-mask-size: 200%;
+animation: oof 1.2s linear infinite;
+}
+a.username[href="index.php?members/redacted/"]~.bannerStaff.wrapped span
+{
+background-color: #fb71ea;
+}
+a.username[href="index.php?members/redacted/"]~.bannerStaff:before
+{
+content: 'Not a ';
+}
+a.username[href="index.php?members/redacted/"]~.bannerOrange
+{
+/*content: 'Not a ';*/
+display: none;
+}
+a.username[href="index.php?members/redacted/"]~.bannerYellow
+{
+/*content: 'Not ';*/
+display: none;
+}
+
+/*-----User Title-----*/ 
+a.username[href="index.php?members/redacted/"]~.userTitle
+{
+font-size: 0px;
+}
+
+/*-----Nostalgia. Could've made an image but that's no fun-----*/
+a.username[href="index.php?members/redacted/"]+.userflagimage+[itemprop="title"]:after
+{
+display: inline-block;
+width: 120px;
+height: 55px;
+content: "";
+background: url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png'), url('https://i.imgur.com/redacted.png');
+
+background-repeat:   no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+  
+background-position:left 0px top 0px,left 27px top 0px,left 59px top 0px,left 90px top 0px,left 0px top 30px,left 27px top 30px,left 59px top 30px,left 90px top 30px;
+  
+background-size: 22%,22%,22%,22%,22%,22%,22%,22%;
+}
+
+/*-----Global Stats-----*/
+.sidebar .visitorPanel .avatar[href="index.php?members/redacted/"] + .visitorText .stats .pairsJustified:last-of-type dt:last-of-type
+{
+color:#fb71ea;
+}
+.sidebar .visitorPanel .avatar[href="index.php?members/redacted/"] + .visitorText .stats .pairsJustified:last-of-type dt:last-of-type:before
+{
+content: 'redacted ';
+color:#fb71ea;
+}
+.sidebar .visitorPanel .avatar[href="index.php?members/redacted/"] + .visitorText .stats .pairsJustified:last-of-type dd:last-of-type, .OverlayTrigger[href="index.php?members/redacted/trophies"]
+{
+font-size: 0px;
+}
+.sidebar .visitorPanel .avatar[href="index.php?members/redacted/"] + .visitorText .stats .pairsJustified:last-of-type dd:last-of-type:after, .OverlayTrigger[href="index.php?members/redacted/trophies"]:after
+{
+font-size: 12px;
+content: 'lol yes please';
+}
+.sidebar .visitorPanel .username[href="index.php?members/redacted/"]
+{
+color:#fb71ea;
+}
+
+/*-----Xen Card-----*/
+.xenOverlay.memberCard #memberCardredacted .userInfo .userStats dd
+{
+  font-size: 0px;
+}
+.xenOverlay.memberCard #memberCardredacted .userInfo .userStats dd:nth-of-type(1):after
+{
+  font-size: 12px;
+  content: "Today";
+}
+.xenOverlay.memberCard #memberCardredacted .userInfo .userStats dd:nth-of-type(2):after
+{
+  font-size: 12px;
+  content: "100";
+}
+.xenOverlay.memberCard #memberCardredacted .userInfo .userStats dd:nth-of-type(3):after
+{
+  font-size: 12px;
+  content: "1337";
+}
+.xenOverlay.memberCard #memberCardredacted .userInfo h3 a
+{
+  color:#fb71ea !important;
+background-image: url(https://i.imgur.com/redacted.gif);
+}
+
+.xenOverlay.memberCard #memberCardredacted .userInfo h3 a:after
+{
+ content: url('https://i.imgur.com/redacted.png');
+}
+
+.xenOverlay.memberCard #memberCardredacted .userInfo a
+{
+  color:#fb71ea !important;
+}
+/*############# End redacted's Styling #############*/
+
+/*############# Begin redacted's Styling #############*/
+/*Redacted's Styling because he might break the site again*/
+
+/*-----"Global"-----*/
+a.username[href="index.php?members/redacted/"] span
+{
+font-style: normal;
+color: #9B30FF !important;
+animation: derAdministrator 1.5s ease 0s infinite normal;
+}
+
+/*-----Siropu Chat Messages-----*/
+[href="index.php?members/redacted/"]+[role="button"] span
+{
+color: #9B30FF !important;
+animation: derAdministrator 1.5s ease 0s infinite normal;
+}
+
+/*-----Siropu Chat Message Color/Experimental-----*/
+[href="index.php?members/redacted/"]~.siropuChatMessage
+{
+color: #bea8f1;
+}
+[href="index.php?members/redacted/"]~.siropuChatMessage>.bbCodeBlock
+{
+color: rgb(186, 186, 186)
+}
+
+/*-----Siropu Chat Bar-----*/
+[data-userid="redacted"]>.username span
+{
+color:#9B30FF !important;
+animation: derAdministrator 1.5s ease 0s infinite normal;
+}
+
+/*-----User "Badge" lmao-----*/
+ a.username[href="index.php?members/redacted/"]+.userflagimage+[itemprop="title"]:after
+{
+content: url('https://i.imgur.com/redacted.png');
+display: block;
+}
+
+/*-----He Wishes to Delete His Auth Banner-----*/
+a.username[href="index.php?members/redacted/"]~.bannerYellow
+{
+display: none;
+}
+
+/*-----Local Stats-----*/
+.sidebar .visitorPanel .avatar[href="index.php?members/redacted/"] + .visitorText .stats .pairsJustified:last-of-type dt:last-of-type:before
+{
+content: 'redacted ';
+}
+/*############# End redacted's Styling #############*/
+
+/*############# Begin redacted's Styling #############*/
+/*-----Siropu Chat Message Color/Experimental-----*/
+[href="index.php?members/redacted"]~.siropuChatMessage
+{
+color: #04d14f;
+}
+[href="index.php?members/redacted"]~.siropuChatMessage>.bbCodeBlock
+{
+color: rgb(186, 186, 186)
+}
+/*############# End redacted' Styling #############*/
+
+/*############# Begin redacted's Styling #############*/
+/*-----"Global"-----*/
+a.username[href="index.php?members/redacted/"] span
+{
+color: #fb71ea !important;
+text-shadow: 0px 2px 5px #fb71ea;
+background-image: url(https://i.imgur.com/redacted.gif);
+}
+a.username[href="index.php?members/redacted/"] span:hover
+{
+text-shadow: 0px 2px 10px #fb71ea;
+}
+a.username[href="index.php?members/redacted/"] span:after
+{
+ content: url('https://i.imgur.com/redacted.png');
+}
+
+/*-----Siropu Chat Messages-----*/
+[href="index.php?members/redacted/"]+[role="button"] span,#siropuChat .username[href="https://redacted.com/index.php?members/redacted/"]
+{
+color: #fb71ea !important;
+text-shadow: 0px 2px 5px #fb71ea;
+background-image: url('https://i.imgur.com/redacted.gif');
+}
+[href="index.php?members/redacted/"]+[role="button"] span:after,#siropuChat .username[href="https://redacted.com/index.php?members/redacted/"]:after
+{
+content: url('https://i.imgur.com/redacted.png');
+}
+[href="index.php?members/redacted/"]+[role="button"] span:hover, #siropuChat .username[href="https://redacted.com/index.php?members/redacted/"]:hover
+{
+text-shadow: 0px 2px 10px #fb71ea;
+}
+/*############# End redacted's Styling #############*/
+
+/*############# Die Administratoren #############*/
+.username .style3
+{
+	color:red;
+         animation:derAdministrator 2s ease 0s infinite normal;
+}
+/*############# End Die Administratoren #############*/
+
+/*############# Administrator Name Keyframes #############*/
+@keyframes derAdministrator
+{
+0%
+{
+text-shadow: 0px 0px 10px red;
+}
+50%
+{
+text-shadow: 0px 0px 1px red;
+}
+75%
+{
+text-shadow: 0px 0px 1px red;
+}
+100%
+{
+text-shadow: 0px 0px 10px red;
+}
+}
+
+@keyframes oof
+{
+from 
+{ 
+-webkit-mask-position: 150%; 
+}
+to 
+{ 
+-webkit-mask-position: -50%; 
+}
+}
+</style>

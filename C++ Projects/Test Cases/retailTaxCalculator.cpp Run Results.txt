@@ -1,0 +1,3 @@
+What is  the price of your item? 219
+What is the sales tax rate of this item? 6
+The total  sales  tax  of your item is $13.14, which makes the  final price of your item $232.14

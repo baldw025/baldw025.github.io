@@ -1,0 +1,11 @@
+Please enter your age:
+12
+Sorry, but you need to wait 5 more years before being applicable for the military.
+[baldw025@empress cs111]$ ./a.out
+Please enter your age:
+21
+The military is looking for more people like you.
+[baldw025@empress cs111]$ ./a.out
+Please enter your age:
+70
+Thank you for using the system.

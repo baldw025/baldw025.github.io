@@ -1,0 +1,11 @@
+Hello! Please input your first name:
+DeAndre
+Now enter your gender. Enter 'Male' for Male or 'Female' for Female:
+Male
+Thank you, now, please enter your age:
+21
+Please enter your Grade Point Average:
+3.35
+Fantastic. Now, please give me a radius of a circle. I will then calculate its circumference and area:
+32
+Hello DeAndre!  You are a 21 year old Male with a grade point average of 3.35. The area of your circle is 3215.36 and the circumference of it is 200.96

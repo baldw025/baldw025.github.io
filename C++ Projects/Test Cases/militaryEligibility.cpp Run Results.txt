@@ -1,0 +1,30 @@
+****************************************************
+This program will tell you if you are eligible to join the military.
+****************************************************
+Enter first name: DeAndre
+Enter gender: Male
+Enter age: Thank you for appyling.
+[baldw025@empress cs111]$ ./a.out
+****************************************************
+This program will tell you if you are eligible to join the military.
+****************************************************
+Enter first name: DeAndre
+Enter gender: M
+Enter age: 21
+Dear DeAndre Please consider joining the military.
+[baldw025@empress cs111]$ ./a.out
+****************************************************
+This program will tell you if you are eligible to join the military.
+****************************************************
+Enter first name: Alexis
+Enter gender: F
+Enter age: 19
+Dear Alexis Please consider joining the military.
+[baldw025@empress cs111]$ ./a.out
+****************************************************
+This program will tell you if you are eligible to join the military.
+****************************************************
+Enter first name: James
+Enter gender: M
+Enter age: 12
+Thank you for appyling.

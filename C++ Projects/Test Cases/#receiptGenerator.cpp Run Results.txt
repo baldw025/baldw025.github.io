@@ -1,0 +1,25 @@
+Hello! Which car part would you like to purchase today?
+iPE Valvetronic F1 Exhaust
+Excellent choice! That 'iPE Valvetronic F1 Exhaust' will make a fine addition to your vehicle!
+
+
+(For the Clerk) What is the price of the customer's item?
+6099.89
+Generating and printing receipt...
+
+
+----------------------------------------------------
+|         iPE Performance Parts and Tuning         |
+----------------------------------------------------
+
+                            Sun May  6 19:11:57 2018
+                                   Clerk:    DeAndre
+
+
+iPE Valvetronic F1 Exhaust                   6099.89
+Sales Tax                                     472.74
+Total                                        6572.63
+
+----------------------------------------------------
+| Thank you for shopping at Innotech Performance!! |
+----------------------------------------------------

@@ -1,0 +1,16 @@
+How many stars would you like to torture the shell with?: 3
+   *
+  **
+ ***
+************************************************** (This divider isn't part of the above test)
+How many stars would you like to torture the shell with?: 10
+          *
+         **
+        ***
+       ****
+      *****
+     ******
+    *******
+   ********
+  *********
+ **********

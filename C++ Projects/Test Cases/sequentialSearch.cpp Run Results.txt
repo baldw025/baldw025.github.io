@@ -1,0 +1,11 @@
+50 52 50 33 52 57 47 59 35 38
+Please enter a number to search for in the array: 12
+
+Your key (12) was not found in the array.
+Your key (12) was not found in any index.
+***********************************************
+71 53 98 45 31 12 95 69 56 47
+Please enter a number to search for in the array: 95
+
+Your key (95) was found in the array.
+Your key (95) was found at index 6.

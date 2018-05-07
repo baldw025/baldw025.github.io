@@ -1,0 +1,30 @@
+Do you have a number to check? y/n:
+y
+Enter a number: 13
+13 is odd.
+
+Do you have a number to check? y/n:
+y
+Enter a number: 25
+25 is odd.
+
+Do you have a number to check? y/n:
+y
+Enter a number: 16
+16 is even.
+
+Do you have a number to check? y/n:
+y
+Enter a number: 1337331
+1337331 is odd.
+
+Do you have a number to check? y/n:
+y
+Enter a number: 0
+0 is even.
+
+Do you have a number to check? y/n:
+n
+2 even numbers
+3 odd numbers
+The average is 267477

@@ -1,0 +1,15 @@
+Please enter a month. Using '1' for January, '2' for February, and etcetera:
+1
+It's a Winter Wonderland
+****************************************
+Please enter a month. Using '1' for January, '2' for February, and etcetera:
+4
+It's Spring!
+****************************************
+Please enter a month. Using '1' for January, '2' for February, and etcetera:
+6
+Hot hot Summer.
+****************************************
+Please enter a month. Using '1' for January, '2' for February, and etcetera:
+11
+Falling falling Fall.

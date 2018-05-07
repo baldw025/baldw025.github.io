@@ -1,0 +1,72 @@
+[NETW:/1: 3-A3:54I] Initialization: Sun May  6 19:05:06 2018
+
+[SYSTEM] Booting up internal mainframe... Please wait...
+
+[SYSTEM] *-*UNAUTHORIZED*-* PLEASE ENTER [NETW://A-1] MAXIMUM SECURITY ACCESS CODE TO ACCESS [3-A3:54I] MAINFRAME
+****************
+[SYSTEM] VERIFYING ACCESS CODE...
+[SYSTEM] VERIFIED
+[SYSTEM] MATCHING RECORDS...
+[SYSTEM] DECRYPTING MAINFRAME MASTER ACCESS INDICES...
+[SYSTEM] CONSTRUCTING ADDITIONAL PYLONS...
+[SYSTEM] *-*AUTHORIZED*-* SUPER USER ACCESS ACCEPTED. ACCESSING THE MAINFRAME..
+
+
+
+[3-A3:54I Mainframe] Welcome, Super UserPlease select a master executable to run:
+
+
+-----------------------------------------------------
+                     Executables
+-----------------------------------------------------
+1. Root Hack.exe
+
+2. Server-Sided Cougar Courses Root Access
+
+3. Department of Defense Direct Comm-Link
+
+4. DDoS - Packet Magic
+
+5. NSA Override.exe
+
+-----------------------------------------------------
+
+
+Run> Root Hack.exe
+Root Hack.exe initializing... Please wait...
+
+Welcome, Super User
+Enter a command: hack nsa
+
+NSA_Hack_booter.exe.cmd starting...
+DDoSing NSA security... Standby...
+Successful
+Overriding firewall...
+ERROR_VAR_FUNCTION_RUN_OVERRIDE...
+EXECUTING OVERRIDE VAR_42E.EXE...
+VAR_42E.EXE OVERRIDE SUCCESSFUL
+
+NSA_Backdoor>logon Donald Trump
+Rooting into direct Executive comm link...
+
+Success
+
+Welcome, President Trump
+Issue Executive Order: Nuke Russia
+Confirm 'Nuke Russia' ? (Y/N)
+Y
+
+Executive order initiated. May God bless this country.
+
+Cleaning up traces...
+Purging -X:/%AppData%/Local/Temp
+Purging -X:/%AppData%/Local/Logs
+Purging -X:/%AppData%/Local/Traces
+Purging -X:/%AppData%/Local/recently-used.xbel
+Purging -X:/%AppData%/Roaming/trace_FilterInstaller.dat
+Purging -X:/%AppData%/Roaming/trace_FilterInstaller.txt-CRT.meta
+Purging -X:/%AppData%/Roaming/WB.cfg
+Purging -X:/%AppData%/Roaming/JP2K CS6 Prefs
+Purging -X:/%AppData%/LocalLow/wbk9969.tmp
+Purging -X:/%AppData%/LocalLow/Temp
+Done. Exiting...

@@ -1,0 +1,20 @@
+Enter the number of days you worked: -5
+Enter the number of days you worked: 0
+Enter the number of days you worked: 15
+    1           0.01
+    2           0.02
+    3           0.04
+    4           0.08
+    5           0.16
+    6           0.32
+    7           0.64
+    8           1.28
+    9           2.56
+   10           5.12
+   11          10.24
+   12          20.48
+   13          40.96
+   14          81.92
+   15         163.84
+
+Total         327.67

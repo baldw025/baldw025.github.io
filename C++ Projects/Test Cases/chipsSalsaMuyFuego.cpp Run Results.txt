@@ -1,0 +1,18 @@
+Enter the number of jars sold for Mild: -1
+Enter the number of jars sold for Mild: -100
+Enter the number of jars sold for Mild: 100
+Enter the number of jars sold for Medium: 500
+Enter the number of jars sold for Sweet: 0
+Enter the number of jars sold for Hot: 250
+Enter the number of jars sold for Zesty: 1000
+
+
+Mild                100
+Medium              500
+Sweet               0
+Hot                 250
+Zesty               1000
+
+The total number of jars sold is: 1850
+The best-selling selling salsa type is: Zesty
+The least-selling salsa type is: Sweet

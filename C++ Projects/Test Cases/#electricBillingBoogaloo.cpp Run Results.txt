@@ -1,0 +1,44 @@
+Enter the month: 0
+0 is an invalid month.
+**************************************************
+Enter the month: 13
+13 is an invalid month.
+**************************************************
+Enter the month: 5
+Enter the current meter reading: 800
+Enter the previous meter reading: 1000
+The readings are invalid
+**************************************************
+Enter the month: 10
+Enter the current meter reading: 10
+Enter the previous meter reading: -1
+The readings are invalid
+**************************************************
+Enter the month: 5
+Enter the current meter reading: -5
+Enter the previous meter reading: -10
+The readings are invalid
+**************************************************
+Enter the month: 5
+Enter the current meter reading: 1200
+Enter the previous meter reading: 500
+
+You consumed 700 and your amount due is $31.07
+**************************************************
+Enter the month: 5
+Enter the current meter reading: 1200
+Enter the previous meter reading: 1000
+
+You consumed 200 and your amount due is $8.50
+**************************************************
+Enter the month: 4
+Enter the current meter reading: 1200
+Enter the previous meter reading: 500
+
+You consumed 700 and your amount due is $28.23
+**************************************************
+Enter the month: 10
+Enter the current meter reading: 1200
+Enter the previous meter reading: 500
+
+You consumed 700 and your amount due is $28.23

@@ -1,0 +1,39 @@
+*Test 1:
+Enter hours:
+3
+Enter minutes:
+45
+The angle of the hour hand is : 112.5
+The angle of the minute hand is : 270
+
+*Test 2:
+Enter hours:
+12
+Enter minutes:
+0
+The angle of the hour hand is : 0
+The angle of the minute hand is : 0
+
+*Test 3:
+Enter hours:
+12
+Enter minutes:
+30
+The angle of the hour hand is : 15
+The angle of the minute hand is : 180
+
+*Test 4:
+Enter hours:
+15
+Enter minutes:
+10
+The angle of the hour hand is : 95
+The angle of the minute hand is : 60
+
+*Test 5:
+Enter hours:
+24
+Enter minutes:
+23
+The angle of the hour hand is : 11.5
+The angle of the minute hand is : 138

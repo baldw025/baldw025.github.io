@@ -1,0 +1,10 @@
+Which temperature do you have? Enter F for Fahrenheit or C for Celsius: C
+Enter a temperature in Celsius: 23
+23 Celsius = 73.40 Fahrenheit
+**************************************************
+Which temperature do you have? Enter F for Fahrenheit or C for Celsius: F
+Enter a temperature in Fahrenheit: 81
+81 Fahrenheit = 27.22 Celsius
+**************************************************
+Which temperature do you have? Enter F for Fahrenheit or C for Celsius: X
+Invalid choice

@@ -1,0 +1,20 @@
+Guess a number bewteen 1 and 100. Enter your guess: 50
+Too high! Try Again!
+
+Guess a number bewteen 1 and 100. Enter your guess: 40
+Too low! Try Again!
+
+Guess a number bewteen 1 and 100. Enter your guess: 41
+Too low! Try Again!
+
+Guess a number bewteen 1 and 100. Enter your guess: 42
+Too low! Try Again!
+
+Guess a number bewteen 1 and 100. Enter your guess: 43
+Too low! Try Again!
+
+Guess a number bewteen 1 and 100. Enter your guess: 44
+You guessed it right!
+**************************************************
+Guess a number bewteen 1 and 100. Enter your guess: 66
+You guessed it right!
