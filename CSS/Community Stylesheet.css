@@ -94,6 +94,12 @@ a.username[href="index.php?members/redacted/"]~.userTitle
 font-size: 0px;
 }
 
+a.username[href="index.php?members/redacted/]~.userTitle:after
+{
+font-size: 12px;
+content: "Administrator";
+}
+
 /*-----Nostalgia. Could've made an image but that's no fun-----*/
 a.username[href="index.php?members/redacted/"]+.userflagimage+[itemprop="title"]:after
 {
