@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-modernist";
+@import "{{ site.theme }}";
 header
 {
   background:#4989c8;
