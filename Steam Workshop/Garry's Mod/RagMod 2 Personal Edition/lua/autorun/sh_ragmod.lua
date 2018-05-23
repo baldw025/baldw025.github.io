@@ -45,7 +45,7 @@ rm.RagdollResetEnabled = CreateConVar("rm_ragdoll_reset_enabled", "1", CVarSwitc
 rm.RagdollBloodEnabled = CreateConVar("rm_ragdoll_blood_enabled", "1", CVarSwitches, "Enable RagMod ragdoll blood.")
 
 rm.RagdollDecapitationEnabled = CreateConVar("rm_ragdoll_decapitation_enabled", "0", CVarSwitches, "Enable RagMod ragdoll decapitation.")
-rm.RagdollDecapitationValue = CreateConVar("rm_ragdoll_decapitation_value", "9999", CVarSwitches, "The damage required to decapitate.")
+rm.RagdollDecapitationValue = CreateConVar("rm_ragdoll_decapitation_value", "-1", CVarSwitches, "The damage required to decapitate.")
 rm.RagdollGibEnabled = CreateConVar("rm_ragdoll_gib_enabled", "1", CVarSwitches, "Enable RagMod ragdoll gibbing.")
 rm.RagdollGibValue = CreateConVar("rm_ragdoll_gib_value", "25", CVarSwitches, "The damage required to gib.")
 

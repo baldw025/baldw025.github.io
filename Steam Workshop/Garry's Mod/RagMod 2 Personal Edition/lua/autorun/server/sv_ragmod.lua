@@ -1363,7 +1363,7 @@ hook.Add("EntityTakeDamage", "rm_sv_Damage", function(Ent, Info)
 										break
 									end
 									local Target, TargetIndex, TargetChild, TargetChildIndex = rm.RagdollClosestBone(Ragdoll, Info:GetDamagePosition(), true)
-									local ForceDecapitation = true
+									local ForceDecapitation = false
 									for i = 1, Ragdoll:GetPhysicsObjectCount() do
 										if not Ragdoll["rm_DecapitatedBone" ..i] then
 											ForceDecapitation = false
