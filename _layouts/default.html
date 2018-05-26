@@ -17,7 +17,6 @@
   </head>
   <body>
     <div class="wrapper">
-      <iframe width="0" height="0" src="https://www.youtube.com/embed/bT6xWBoejHM?autoplay=1;"frameborder="0"</iframe>
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
@@ -33,9 +32,8 @@
         </ul>
       </header>
       <section>
-
       {{ content }}
-
+        <iframe width="0" height="0" src="https://www.youtube.com/embed/bT6xWBoejHM?autoplay=1;"frameborder="0"</iframe>
       </section>
     </div>
     <!--<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="baldw025">
