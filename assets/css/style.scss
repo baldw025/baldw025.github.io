@@ -39,10 +39,11 @@ header ul a,header ul a strong
 body 
 {
   background-image: url("https://i.imgur.com/NyxykUb.jpg");
-  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
   background-position: center center;  
-  padding: 500px 0;
+  background-repeat: no-repeat;
+  padding: 486px;  
 }
 
 /*Welcome Dialog*/
