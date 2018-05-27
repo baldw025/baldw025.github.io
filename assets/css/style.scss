@@ -62,3 +62,17 @@ footer
   right:900px;*/
   display:none;
 }
+
+/*-----Mobile Section-----*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  
+{ 
+  background-image: url("https://i.imgur.com/NyxykUb.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 486px;
+  padding-left: 160px;
+  padding-top: 300px;
+}
