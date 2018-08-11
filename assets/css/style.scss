@@ -48,8 +48,9 @@ html
 /*Welcome Dialog*/
 .wrapper 
 {
+  position:relative;
   width:700px;
-  bottom: 250px;
+  top:250px; /*ಠ_ಠ*/
 }
 
 /*Footer Text*/
