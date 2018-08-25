@@ -90,7 +90,7 @@ void analyzeString(const char* convertedString, int sLength, Alphabet ar[])
 	//std::cout << convertedString << "\n\n";
 }
 
-//Does a thing
+//Calculates the most frequent character count in the string and returns the value to our main. This will help determine which frequent character(s) to display when we print the overall results.
 int calculateMostFrequentCharacter(Alphabet ar[])
 {
 	int highestMatch = 0;
