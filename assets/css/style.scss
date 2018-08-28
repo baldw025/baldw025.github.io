@@ -54,6 +54,7 @@ html
 }
 
 /*-----Experimental Mobile Section Oh Goodness-----*/
+/*iPad Portrait and Landscape*/
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)
@@ -61,7 +62,7 @@ and (max-device-width : 1024px)
   background: url("https://i.imgur.com/NyxykUb.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 200px;
+  top: 200px;
   overflow: hidden;
 }
 
