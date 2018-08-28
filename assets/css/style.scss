@@ -53,30 +53,16 @@ html
   top:250px; /*ಠ_ಠ*/
 }
 
-/*Footer Text*/
-footer
-{
-  /*position: relative;
-  top:500px;
-  right:900px;*/
-  display:none;
+/*-----Experimental Mobile Section Oh Goodness-----*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+{ 
+  background: url("https://i.imgur.com/NyxykUb.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+  overflow: hidden;
 }
 
-/*-----Experimental Mobile Section Oh Goodness-----*/
-@media screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-{ 
-  body
-    {
-      background-image: url("https://i.imgur.com/NyxykUb.jpg");
-      background-attachment: fixed;
-      background-size: cover;
-      background-repeat: no-repeat;
-      padding: 486px;
-      padding-left: 160px;
-      padding-top: 300px;
-      overflow: hidden;
-    }
-}
+
