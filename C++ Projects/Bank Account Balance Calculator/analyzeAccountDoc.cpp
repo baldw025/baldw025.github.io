@@ -68,7 +68,7 @@ void analyzeFile()
 	}
 
 	//Calculates the account's overall final balance by calculating balance generated purely by interest and adding that value to the account's net worth (after withdrawals).
-	double endBalance = (((startBalance + accountDeposit) - accountWithdrawal) * interestRate) + ((startBalance + accountDeposit) - accountWithdrawal);
+	endBalance = (((startBalance + accountDeposit) - accountWithdrawal) * interestRate) + ((startBalance + accountDeposit) - accountWithdrawal);
 
 	//Cleanly save the current read account's information, including calculated overall balance, into a file.
 		
