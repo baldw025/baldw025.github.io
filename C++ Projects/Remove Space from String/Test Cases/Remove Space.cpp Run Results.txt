@@ -1,0 +1,9 @@
+Input a sentence: Hold your breath as it covers you
+Holdyourbreathasitcoversyou
+
+Input a sentence: a90sdu aS()A()( sdjsadd sad9(((( sdso= +_ 9 m {}
+a90sduaS()A()(sdjsaddsad9((((sdso=+_9m{}
+
+Input a sentence: 9 9 s9d9a sd9sauds9 usa9d9sau ^^^ ^ ^ [ } } {DS{d]s d][{D }S D
+99s9d9asd9sauds9usa9d9sau^^^^^[}}{DS{d]sd][{D}SD
+
