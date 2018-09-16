@@ -1,0 +1,45 @@
+enroll George Lucas 432345673
+enroll Suzy Walter 876523067
+enroll DeAndre Baldwin 760672258
+enroll Alexis Eden 123282345
+enroll Susie Walter 135321023
+enroll DeAndre Baldwin 760672258
+enroll Drey Baldwin 987654321
+enroll Shelby Corra 701420140 
+enroll Suzy Walter 987667654
+enroll James Bond 700000007
+enroll Jonathon Ng 456283409
+enroll Jonathon Ng 456283409
+enroll Jonathon Ng 456283409
+enroll Andrea Meyer 982323146
+enroll Justin Philips 787878123
+enroll Susan Walter 101010010
+display
+drop 012345634
+drop 982323146
+drop 432345673
+uploadGrades 432345673 98 98 99 93
+uploadGrades 999999999 60 90 70 80
+uploadGrades 876523067 87.5 85 88 81
+uploadGrades 701420140   92.5 97 73.1 88.6
+uploadGrades 760672258 97 87 83.5 90
+uploadGrades 987654321 73 100 82.2 88
+uploadGrades 123282345 62 70 63 70
+uploadGrades 987667654 81 83 75 90
+uploadGrades 700000007 79 85 80 88
+uploadGrades 456283409 95 91 92 94
+uploadGrades 787878123 99 98.5 95 94
+uploadGrades 135321023 12 71 2 0
+uploadGrades 101010010 3.33 4.94 99.99 1.70
+searchByName Alexis
+searchByName John
+searchByName Justin
+searchByName Michel
+searchByName DeAndre Baldwin
+searchByName Andrea
+searchByName Baldwin
+searchByName ODESZA
+searchByName Eden
+searchByName Walter
+display
+printClassSummary

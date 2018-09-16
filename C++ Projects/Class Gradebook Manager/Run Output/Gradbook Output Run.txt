@@ -1,0 +1,159 @@
+Successfully enrolled George Lucas to the class.
+Successfully enrolled Suzy Walter to the class.
+Successfully enrolled DeAndre Baldwin to the class.
+Successfully enrolled Alexis Eden to the class.
+Successfully enrolled Susie Walter to the class.
+Error: DeAndre Baldwin is already enrolled in this class.
+Successfully enrolled Drey Baldwin to the class.
+Successfully enrolled Shelby Corra to the class.
+Successfully enrolled Suzy Walter to the class.
+Successfully enrolled James Bond to the class.
+Successfully enrolled Jonathon Ng to the class.
+Error: Jonathon Ng is already enrolled in this class.
+Error: Jonathon Ng is already enrolled in this class.
+Successfully enrolled Andrea Meyer to the class.
+Successfully enrolled Justin Philips to the class.
+Successfully enrolled Susan Walter to the class.
+                             ___________
+                             |Gradebook|
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+George Lucas        432345673    0.00   0.00   0.00   0.00   0.00
+Suzy Walter         876523067    0.00   0.00   0.00   0.00   0.00
+DeAndre Baldwin     760672258    0.00   0.00   0.00   0.00   0.00
+Alexis Eden         123282345    0.00   0.00   0.00   0.00   0.00
+Susie Walter        135321023    0.00   0.00   0.00   0.00   0.00
+Drey Baldwin        987654321    0.00   0.00   0.00   0.00   0.00
+Shelby Corra        701420140    0.00   0.00   0.00   0.00   0.00
+Suzy Walter         987667654    0.00   0.00   0.00   0.00   0.00
+James Bond          700000007    0.00   0.00   0.00   0.00   0.00
+Jonathon Ng         456283409    0.00   0.00   0.00   0.00   0.00
+Andrea Meyer        982323146    0.00   0.00   0.00   0.00   0.00
+Justin Philips      787878123    0.00   0.00   0.00   0.00   0.00
+Susan Walter        101010010    0.00   0.00   0.00   0.00   0.00
+
+
+Error: Can not drop student 12345634 (Unknown) as they are not enrolled in this class.
+Successfully dropped student 982323146 (Andrea Meyer) from this class.
+Successfully dropped student 432345673 (George Lucas) from this class.
+Error: Can not upload grades for student 432345673 (Unknown) as they are not enrolled in this class.
+Error: Can not upload grades for student 999999999 (Unknown) as they are not enrolled in this class.
+Successfully uploaded Suzy Walter's grades.
+Successfully uploaded Shelby Corra's grades.
+Successfully uploaded DeAndre Baldwin's grades.
+Successfully uploaded Drey Baldwin's grades.
+Successfully uploaded Alexis Eden's grades.
+Successfully uploaded Suzy Walter's grades.
+Successfully uploaded James Bond's grades.
+Successfully uploaded Jonathon Ng's grades.
+Successfully uploaded Justin Philips's grades.
+Successfully uploaded Susie Walter's grades.
+Successfully uploaded Susan Walter's grades.
+Matches found for: Alexis
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+Alexis Eden         123282345    62.00  70.00  63.00  70.00  66.25
+
+
+Matches found for: John
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+
+
+None.  John is not currently enrolled in this class.
+
+
+Matches found for: Justin
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+Justin Philips      787878123    99.00  98.50  95.00  94.00  96.63
+
+
+Matches found for: Michel
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+
+
+None.  Michel is not currently enrolled in this class.
+
+
+Matches found for: DeAndre Baldwin
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+DeAndre Baldwin     760672258    97.00  87.00  83.50  90.00  89.38
+
+
+Matches found for: Andrea
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+
+
+None.  Andrea is not currently enrolled in this class.
+
+
+Matches found for: Baldwin
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+DeAndre Baldwin     760672258    97.00  87.00  83.50  90.00  89.38
+Drey Baldwin        987654321    73.00  100.00 82.20  88.00  85.80
+
+
+Matches found for: ODESZA
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+
+
+None.  ODESZA is not currently enrolled in this class.
+
+
+Matches found for: Eden
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+Alexis Eden         123282345    62.00  70.00  63.00  70.00  66.25
+
+
+Matches found for: Walter
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+Suzy Walter         876523067    87.50  85.00  88.00  81.00  85.38
+Susie Walter        135321023    12.00  71.00  2.00   0.00   21.25
+Suzy Walter         987667654    81.00  83.00  75.00  90.00  82.25
+Susan Walter        101010010    3.33   4.94   99.99  1.70   27.49
+
+
+                             ___________
+                             |Gradebook|
+-------------------------------------------------------------------------
+Student             ID           Exam1  Exam2  Exam3  Exam4  Final Grade
+-------------------------------------------------------------------------
+Suzy Walter         876523067    87.50  85.00  88.00  81.00  85.38
+DeAndre Baldwin     760672258    97.00  87.00  83.50  90.00  89.38
+Alexis Eden         123282345    62.00  70.00  63.00  70.00  66.25
+Susie Walter        135321023    12.00  71.00  2.00   0.00   21.25
+Drey Baldwin        987654321    73.00  100.00 82.20  88.00  85.80
+Shelby Corra        701420140    92.50  97.00  73.10  88.60  87.80
+Suzy Walter         987667654    81.00  83.00  75.00  90.00  82.25
+James Bond          700000007    79.00  85.00  80.00  88.00  83.00
+Jonathon Ng         456283409    95.00  91.00  92.00  94.00  93.00
+Justin Philips      787878123    99.00  98.50  95.00  94.00  96.63
+Susan Walter        101010010    3.33   4.94   99.99  1.70   27.49
+
+
+Justin Philips has the highest final grade in the class. (96.63)
+Susie Walter has the lowest final grade in the class. (21.25)
+The classes' overall final grade average is: 74.38
+
+
+C:\Users\Alexis\Documents\Visual Studio 2017\Projects\Gradebook\Debug\Gradebook.exe (process 16892) exited with code 0.
+Press any key to close this window . . .
