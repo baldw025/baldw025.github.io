@@ -1,0 +1,28 @@
+Enter a sentence: Hold your breath, hold their breath, hold her breath, hold his breath, hold our breath.
+
+Enter a word/phrase to search for: breath
+Replace searched word/phrase with: breath
+
+Error: Can not search and replace the same word/phrase.
+Replace searched word/phrase with: breath
+
+Error: Can not search and replace the same word/phrase.
+Replace searched word/phrase with: head up high
+
+Modified String: Hold your head up high, hold their head up high, hold her head up high, hold his head up high, hold our head up high.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enter a sentence: the quick brown fox jumped over the lazy dog.
+
+Enter a word/phrase to search for: the
+Replace searched word/phrase with: that
+
+Modified String: that quick brown fox jumped over that lazy dog.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enter a sentence: This shinned bim has a fin sin gin.
+
+Enter a word/phrase to search for: i
+Replace searched word/phrase with: u
+
+Modified String: Thus shunned bum has a fun sun gun.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
