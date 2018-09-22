@@ -1,0 +1,29 @@
+<style>
+@keyframes NotOkay-Pulse {
+	0%{
+    	background-color:blue;
+		color:red;
+
+        text-shadow: 0 0 5px red;
+	}
+	50%{
+    	background-color: red;
+		color:green;
+
+		text-shadow: 0 0 3px green;
+	}
+	100%{
+    	background-color:green;
+		color:yellow;
+		text-shadow: 0 0 0px yellow;
+	}
+}
+
+html{
+	animation: NotOkay-Pulse 0.5s ease 0s infinite normal;
+}
+
+body {
+animation: NotOkay-Pulse 0.4s ease 0s infinite normal;
+}
+</style>
