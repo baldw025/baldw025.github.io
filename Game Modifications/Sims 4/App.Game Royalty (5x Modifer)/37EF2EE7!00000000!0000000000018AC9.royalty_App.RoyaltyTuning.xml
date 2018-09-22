@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoyaltyPayment" i="royalty" m="sims.royalty_tracker" n="royalty_App" s="101065">
+  <L n="pay_curve">
+    <U>
+      <T n="x">1</T>
+      <T n="y">375</T>
+    </U>
+    <U>
+      <T n="x">15</T>
+      <T n="y">625</T>
+    </U>
+    <U>
+      <T n="x">30</T>
+      <T n="y">100</T>
+    </U>
+  </L>
+  <T n="pay_forever">True</T>
+  <T n="payment_deviation_percent">0.3</T>
+  <E n="payment_tag">Royalty_Apps</E>
+  <E n="royalty_type">APPS</E>
+</I>

@@ -1,8 +1,0 @@
-UnlitGeneric
-{
-	"$basetexture"	"hud/killicons/weapon_physcannon"
-	"$vertexcolor"	"1"
-	"$vertexalpha"	"1"
-	"$translucent"	"1"
-	"$additive"		"1"
-}

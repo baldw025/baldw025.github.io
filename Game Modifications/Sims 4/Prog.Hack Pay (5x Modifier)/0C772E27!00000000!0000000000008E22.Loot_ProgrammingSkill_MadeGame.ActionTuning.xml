@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="Loot_ProgrammingSkill_MadeGame" s="36386">
+  <L n="loot_actions">
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">6750</T>
+            <T n="upper_bound">13175</T>
+          </U>
+        </V>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <T n="display_to_user">False</T>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">11</T>
+                      <T n="upper_bound">12</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">12800</T>
+            <T n="upper_bound">17325</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">13</T>
+                      <T n="upper_bound">14</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">17450</T>
+            <T n="upper_bound">23625</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">15</T>
+                      <T n="upper_bound">16</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <V t="use_default" n="text" />
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">19775</T>
+            <T n="upper_bound">26775</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">17</T>
+                      <T n="upper_bound">18</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">22100</T>
+            <T n="upper_bound">30000</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">19</T>
+                      <T n="upper_bound">20</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_min">
+        <U n="statistic_set_min">
+          <T n="advertise">False</T>
+          <T n="stat">36387<!--Commodity: commodity_ProgrammingSkill_GameProgress--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

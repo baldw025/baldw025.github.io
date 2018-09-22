@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="Loot_ProgrammingSkill_FreelanceDone" s="33240">
+  <L n="loot_actions">
+    <V t="statistics">
+      <V n="statistics" t="statistic_set">
+        <U n="statistic_set">
+          <T n="stat">34384<!--Statistic: statistic_Career_TechGuru_FreelanceMultiplier--></T>
+          <T n="value">1</T>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_change">
+        <U n="statistic_change">
+          <T n="amount">0.3</T>
+          <T n="stat">34384<!--Statistic: statistic_Career_TechGuru_FreelanceMultiplier--></T>
+          <L n="tests">
+            <L>
+              <V t="career_test">
+                <U n="career_test">
+                  <V n="test_type" t="career_reference">
+                    <U n="career_reference">
+                      <V t="specific_career" n="career">
+                        <T n="specific_career">27932<!--Career: career_Adult_TechGuru--></T>
+                      </V>
+                      <V t="enabled" n="user_level">
+                        <U n="enabled">
+                          <T n="lower_bound">6</T>
+                        </U>
+                      </V>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">3750</T>
+            <T n="upper_bound">9000</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">34384<!--Statistic: statistic_Career_TechGuru_FreelanceMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="upper_bound">7</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">8125</T>
+            <T n="upper_bound">20000</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">34384<!--Statistic: statistic_Career_TechGuru_FreelanceMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">8</T>
+                      <T n="upper_bound">10</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">15000</T>
+            <T n="upper_bound">37500</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">11</T>
+                      <T n="upper_bound">13</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">21250</T>
+            <T n="upper_bound">50000</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="threshold">
+                  <U n="threshold">
+                    <U n="skill_threshold">
+                      <T n="value">14</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x3A42EE3<!--String: "(From Great Freelance Work)"--></T>
+          </V>
+          <T n="buff_type">33241<!--Buff: buff_Object_Computer_ProgrammingSkill_JobWellDone--></T>
+        </U>
+        <U n="chance">
+          <T n="base_chance">33</T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">6</T>
+                    </U>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_min">
+        <U n="statistic_set_min">
+          <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+          <L n="tests">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">33234<!--Commodity: commodity_ProgrammingSkill_FreelanceProgress--></T>
+                  <V t="value_threshold" n="threshold">
+                    <U n="value_threshold">
+                      <T n="value">100</T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_remove">
+        <U n="statistic_remove">
+          <T n="stat">34384<!--Statistic: statistic_Career_TechGuru_FreelanceMultiplier--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

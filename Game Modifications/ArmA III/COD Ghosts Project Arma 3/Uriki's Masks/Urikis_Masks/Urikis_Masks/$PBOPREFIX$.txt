@@ -1,0 +1,5 @@
+///'Urikis_Masks.pbo' from Mikero's dos tools, dll version 5.66///
+prefix=Urikis_Masks
+Pbo Type is: Arma Addon
+Sha: '0E254EDE643F96A6290BEB3B5C72860A3D6C674C'
+//////</HEADER>//////

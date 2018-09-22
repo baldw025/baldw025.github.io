@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="Loot_ProgrammingSkill_HackedTarget1" s="31607">
+  <L n="loot_actions">
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <T n="buff_type">31606<!--Buff: buff_Skill_Programming_HackedTarget1--></T>
+        </U>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">100</T>
+            <T n="upper_bound">250</T>
+          </U>
+        </V>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">2</T>
+                      <T n="upper_bound">4</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <E n="operator">NOTEQUAL</E>
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">125</T>
+            <T n="upper_bound">315</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">2</T>
+                      <T n="upper_bound">4</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">300</T>
+            <T n="upper_bound">500</T>
+          </U>
+        </V>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">5</T>
+                      <T n="upper_bound">7</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <E n="operator">NOTEQUAL</E>
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V t="random_in_range" n="amount">
+          <U n="random_in_range">
+            <T n="lower_bound">375</T>
+            <T n="upper_bound">600</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">5</T>
+                      <T n="upper_bound">7</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">600</T>
+            <T n="upper_bound">925</T>
+          </U>
+        </V>
+        <U n="chance">
+          <T n="base_chance">100</T>
+        </U>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">8</T>
+                      <T n="upper_bound">10</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <E n="operator">NOTEQUAL</E>
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+        <V t="use_default" n="text" />
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">750</T>
+            <T n="upper_bound">1155</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">8</T>
+                      <T n="upper_bound">10</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">1275</T>
+            <T n="upper_bound">1725</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">11</T>
+                      <T n="upper_bound">13</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <E n="operator">NOTEQUAL</E>
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">1600</T>
+            <T n="upper_bound">2160</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">11</T>
+                      <T n="upper_bound">13</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">1625</T>
+            <T n="upper_bound">2200</T>
+          </U>
+        </V>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">14</T>
+                      <T n="upper_bound">16</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <E n="operator">NOTEQUAL</E>
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">2030</T>
+            <T n="upper_bound">2750</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">14</T>
+                      <T n="upper_bound">16</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">1975</T>
+            <T n="upper_bound">2675</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">17</T>
+                      <T n="upper_bound">20</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <E n="operator">NOTEQUAL</E>
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">2475</T>
+            <T n="upper_bound">3350</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="statistic_multipliers">
+          <U>
+            <T n="statistic">33981<!--Commodity: commodity_Career_HackPayoutMultiplier--></T>
+          </U>
+        </L>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">17</T>
+                      <T n="upper_bound">20</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="state">
+              <U n="state">
+                <T n="value">29030<!--CommodityBasedObjectStateValue: upgrade_Computer_HackingMoney_Completed--></T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>

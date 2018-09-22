@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LootActions" i="action" m="interactions.utils.loot" n="Loot_ProgrammingSkill_MadeVirus" s="33262">
+  <L n="loot_actions">
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">475</T>
+            <T n="upper_bound">900</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="tests">
+          <L>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="upper_bound">6</T>
+                    </U>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">975</T>
+            <T n="upper_bound">1500</T>
+          </U>
+        </V>
+        <T n="display_to_user">False</T>
+        <L n="tests">
+          <L>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V t="interval" n="skill_range">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">7</T>
+                      <T n="upper_bound">10</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">1850</T>
+            <T n="upper_bound">2505</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">10</T>
+                      <T n="upper_bound">12</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V t="random_in_range" n="amount">
+          <U n="random_in_range">
+            <T n="lower_bound">2625</T>
+            <T n="upper_bound">3550</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">13</T>
+                      <T n="upper_bound">15</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="buff">
+      <U n="buff">
+        <U n="buff">
+          <V n="buff_reason" t="enabled">
+            <T n="enabled">0x2095E806<!--String: "(From Making a Virus)"--></T>
+          </V>
+          <T n="buff_type">33268<!--Buff: buff_Object_Computer_ProgrammingSkill_FeelingDevious--></T>
+        </U>
+        <L n="tests">
+          <L>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+            <V t="trait">
+              <U n="trait">
+                <L n="whitelist_traits">
+                  <T>16836<!--Trait: trait_Evil--></T>
+                </L>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">3475</T>
+            <T n="upper_bound">4700</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">16</T>
+                      <T n="upper_bound">18</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+    <V t="statistics">
+      <V n="statistics" t="statistic_set_min">
+        <U n="statistic_set_min">
+          <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+          <L n="tests">
+            <L>
+              <V t="statistic">
+                <U n="statistic">
+                  <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                  <V t="value_threshold" n="threshold">
+                    <U n="value_threshold">
+                      <T n="value">100</T>
+                    </U>
+                  </V>
+                </U>
+              </V>
+            </L>
+          </L>
+        </U>
+      </V>
+    </V>
+    <V t="money_loot">
+      <U n="money_loot">
+        <V n="amount" t="random_in_range">
+          <U n="random_in_range">
+            <T n="lower_bound">4425</T>
+            <T n="upper_bound">5975</T>
+          </U>
+        </V>
+        <L n="tests">
+          <L>
+            <V t="skill_test">
+              <U n="skill_test">
+                <T n="skill">16703<!--Skill: statistic_Skill_AdultMajor_Programming--></T>
+                <V n="skill_range" t="interval">
+                  <U n="interval">
+                    <U n="skill_interval">
+                      <T n="lower_bound">19</T>
+                      <T n="upper_bound">20</T>
+                    </U>
+                  </U>
+                </V>
+                <T n="use_effective_skill_level">True</T>
+              </U>
+            </V>
+            <V t="statistic">
+              <U n="statistic">
+                <T n="stat">33259<!--Commodity: commodity_ProgrammingSkill_VirusProgress--></T>
+                <V t="value_threshold" n="threshold">
+                  <U n="value_threshold">
+                    <T n="value">100</T>
+                  </U>
+                </V>
+              </U>
+            </V>
+          </L>
+        </L>
+      </U>
+    </V>
+  </L>
+</I>
