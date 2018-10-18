@@ -1,0 +1,327 @@
+Successfully opened shipping file: "ShippingList.txt"
+Standard Package shipping info successfully stored.
+Standard Package shipping info successfully stored.
+Standard Package shipping info successfully stored.
+-----------------------------------------
+|Standard Packages Prepared for Shipping|
+|Total Packages: 3                      |
+-----------------------------------------
+Standard Package #1
+-----------------------------------------
+Sender:     Lou Brown
+            1 Main St
+            Boston, MA 11111
+Recipient:  Mary Smith
+            7 Elm St
+            New York, NY 22222
+Label:      FY0002
+Mailed on:  12/03/2016
+Weight:     8.5
+Insurance:  none
+Signature:  none
+Cost:       $4.25
+-----------------------------------------
+-----------------------------------------
+Standard Package #2
+-----------------------------------------
+Sender:     Amy Johnson
+            3465 Regents Rd
+            San Diego, CA 92130
+Recipient:  Edward Johnes
+            439 N W Greens
+            Fayetteville, NY 13066
+Label:      HG9983
+Mailed on:  06/03/2016
+Weight:     10.00
+Insurance:  upto1000
+Signature:  sign
+Cost:       $15.15
+-----------------------------------------
+-----------------------------------------
+Standard Package #3
+-----------------------------------------
+Sender:     Brian Flemings
+            4356 Nobel Dr
+            San Diego, CA 92130
+Recipient:  Mary Smith
+            1245 Via La Gitano
+            Poway, CA 93064
+Label:      LM9983
+Mailed on:  10/09/2016
+Weight:     3.00
+Insurance:  upto5000
+Signature:  sign
+Cost:       $9.30
+-----------------------------------------
+Flat Rate Package shipping info successfully stored.
+Error: Can not store flat rate package information. (Invalid or unknown package type)
+Flat Rate Package shipping info successfully stored.
+Flat Rate Package shipping info successfully stored.
+Flat Rate Package shipping info successfully stored.
+Flat Rate Package shipping info successfully stored.
+Flat Rate Package shipping info successfully stored.
+------------------------------------------
+|Flat Rate Packages Prepared for Shipping|
+|Total Packages: 6                       |
+------------------------------------------
+Flat Rate Package #1
+------------------------------------------
+Sender:     Julia Wu
+            4387 St Mary
+            Lafayette, LA 70504
+Recipient:  Daniel Tessier
+            234 Johnson St
+            Lafayette, LA 70503
+Label:      JJ3981
+Mailed on:  12/30/2015
+Weight:     8.80
+Type:       paddedEnvelope
+Dimensions: 10x5x1
+Insurance:  upto1000
+Signature:  sign
+Cost:       $17.60
+------------------------------------------
+------------------------------------------
+Flat Rate Package #2
+------------------------------------------
+Sender:     Lisa Klein
+            5 Broadway
+            Somerville, MA 33333
+Recipient:  Bob George
+            21 Pine Rd
+            Cambridge, MA 44444
+Label:      JJ8765
+Mailed on:  07/20/2014
+Weight:     10.50
+Type:       letter
+Dimensions: 2x2x0
+Insurance:  upto1000
+Signature:  sign
+Cost:       $11.35
+------------------------------------------
+------------------------------------------
+Flat Rate Package #3
+------------------------------------------
+Sender:     Jared Beth
+            6 Genessee Rd
+            Hillsboro, OR 97124
+Recipient:  Andrea Smith
+            65 Square Blvd
+            Philadelphia, PA 19121
+Label:      PO0900
+Mailed on:  01/12/2015
+Weight:     12.00
+Type:       box
+Dimensions: 5x6x3
+Insurance:  upto1000
+Signature:  none
+Cost:       $16.55
+------------------------------------------
+------------------------------------------
+Flat Rate Package #4
+------------------------------------------
+Sender:     Carolyn Davis
+            101 Dove St
+            San Diego, CA 92129
+Recipient:  Brian James
+            8765 Hilcrest Rd
+            Las Vegas, NV 89116
+Label:      ZT6751
+Mailed on:  09/14/2016
+Weight:     5.00
+Type:       box
+Dimensions: 7x15x3
+Insurance:  none
+Signature:  none
+Cost:       $17.75
+------------------------------------------
+------------------------------------------
+Flat Rate Package #5
+------------------------------------------
+Sender:     Matthew Garcia
+            10876 Poway Rd
+            Poway, CA 93064
+Recipient:  Jenny Fox
+            125 Bridle Rd
+            Manlius, NY 13057
+Label:      BV7800
+Mailed on:  12/01/2016
+Weight:     17.00
+Type:       box
+Dimensions: 10x10x4
+Insurance:  upto5000
+Signature:  sign
+Cost:       $26.15
+------------------------------------------
+------------------------------------------
+Flat Rate Package #6
+------------------------------------------
+Sender:     Amelia Perez
+            908 Brooks Ave
+            Houston, TX 77001
+Recipient:  Michael Brown
+            3987 Brie St
+            Beaverton, OR 97076
+Label:      RS1010
+Mailed on:  12/21/2015
+Weight:     5.00
+Type:       box
+Dimensions: 3x10x5
+Insurance:  none
+Signature:  none
+Cost:       $11.30
+------------------------------------------
+Overnight Package shipping info successfully stored.
+Overnight Package shipping info successfully stored.
+Overnight Package shipping info successfully stored.
+Overnight Package shipping info successfully stored.
+------------------------------------------
+|Overnight Packages Prepared for Shipping|
+|Total Packages: 4                       |
+------------------------------------------
+Overnight Package #1
+------------------------------------------
+Sender:     Ed Lewis
+            2 Oak St
+            Boston, MA 55555
+Recipient:  Don Kelly
+            9 Main St
+            Denver, CO 66666
+Label:      LL1322
+Mailed on:  03/08/2017
+Weight:     12.25
+Insurance:  none
+Signature:  none
+Tracking:   none
+Cost:       $10.57
+------------------------------------------
+------------------------------------------
+Overnight Package #2
+------------------------------------------
+Sender:     Mary Palmer
+            6534 Springburst Dr
+            Palm Springs, CA 92240
+Recipient:  Dennis Garcia
+            8 Fifth St
+            Denver, CO 66665
+Label:      UI0900
+Mailed on:  10/11/2016
+Weight:     20.10
+Insurance:  upto5000
+Signature:  sign
+Tracking:   track
+Cost:       $36.98
+------------------------------------------
+------------------------------------------
+Overnight Package #3
+------------------------------------------
+Sender:     Joe Garcia
+            4320 Camino Dr
+            La Jolla, CA 92037
+Recipient:  Jamie Cliff
+            7655 Frieser Dr
+            Bellevue, WA 98005
+Label:      KI0067
+Mailed on:  02/05/2017
+Weight:     9.30
+Insurance:  upto1000
+Signature:  none
+Tracking:   track
+Cost:       $43.65
+------------------------------------------
+------------------------------------------
+Overnight Package #4
+------------------------------------------
+Sender:     Mandy Didier
+            8764 Creek View Blvd
+            Fayetteville, NY 13066
+Recipient:  Suzy Walter
+            8765 Regents Rd
+            San Diego, CA 92131
+Label:      WV4544
+Mailed on:  12/01/2016
+Weight:     8.20
+Insurance:  none
+Signature:  none
+Tracking:   track
+Cost:       $22.52
+------------------------------------------
+-----------------------------------------
+|Standard Package Shipped in 12/2016|
+-----------------------------------------
+Standard Package #1
+-----------------------------------------
+Sender:     Lou Brown
+            1 Main St
+            Boston, MA 11111
+Recipient:  Mary Smith
+            7 Elm St
+            New York, NY 22222
+Label:      FY0002
+Mailed on:  12/03/2016
+Weight:     8.50
+Insurance:  none
+Signature:  none
+Cost:       $4.25
+-----------------------------------------
+-----------------------------------------
+|Overnight Package Shipped in 12/2016   |
+-----------------------------------------
+Overnight Package #4
+-----------------------------------------
+Sender:     Mandy Didier
+            8764 Creek View Blvd
+            Fayetteville, NY 13066
+Recipient:  Suzy Walter
+            8765 Regents Rd
+            San Diego, CA 92131
+Label:      WV4544
+Mailed on:  12/01/2016
+Weight:     8.20
+Insurance:  none
+Signature:  none
+Tracking:   track
+Cost:       $22.52
+-----------------------------------------
+-----------------------------------------
+|Flat Rate Package Shipped in 12/2016   |
+-----------------------------------------
+Flat Rate Package #5
+-----------------------------------------
+Sender:     Matthew Garcia
+            10876 Poway Rd
+            Poway, CA 93064
+Recipient:  Jenny Fox
+            125 Bridle Rd
+            Manlius, NY 13057
+Label:      BV7800
+Mailed on:  12/01/2016
+Weight:     17.00
+Type:       box
+Dimensions: 10x10x4
+Insurance:  upto5000
+Signature:  sign
+Cost:       $26.15
+-----------------------------------------
+-----------------------------------------
+|Overnight Package Shipped in 02/2017   |
+-----------------------------------------
+Overnight Package #3
+-----------------------------------------
+Sender:     Joe Garcia
+            4320 Camino Dr
+            La Jolla, CA 92037
+Recipient:  Jamie Cliff
+            7655 Frieser Dr
+            Bellevue, WA 98005
+Label:      KI0067
+Mailed on:  02/05/2017
+Weight:     9.30
+Insurance:  upto1000
+Signature:  none
+Tracking:   track
+Cost:       $43.65
+-----------------------------------------
+The total cost of all 3 shipped standard packages is: $28.70
+The total cost of all 6 shipped flat rate packages is: $100.70
+The total cost of all 4 shipped overnight packages is: $113.73
