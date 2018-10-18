@@ -189,7 +189,7 @@ void PackageInventory::PrintAllFlatRatePackages() const
 			 << left << setw(12) << "Dimensions: " << noshowpoint << resetiosflags(ios::fixed) << flatRatePackages[i].getLength() << "x" << flatRatePackages[i].getWidth() << "x" << flatRatePackages[i].getHeight() << endl
 			 << left << setw(12) << "Insurance: " << flatRatePackages[i].getInsuranceType() << endl
 			 << left << setw(12) << "Signature: " << flatRatePackages[i].getSignatureConfirmation() << endl
-			 << left << setw(12) << "Cost: " << fixed << showpoint << setprecision(2) << "$" << flatRatePackages[i].calculateCost() << endl
+			 << left << setw(12) << "Cost: " << fixed << showpoint << setprecision(2) << "$" << flatRatePackages[i].calculateCost(flatRatePackages[i].getType(), flatRatePackages[i].getLength(), flatRatePackages[i].getWidth(), flatRatePackages[i].getHeight()) << endl
 			 << "------------------------------------------\n";
 	}
 }
@@ -282,7 +282,7 @@ void PackageInventory::PrintShippedOnMonthYear(string m, string y) const
 				<< left << setw(12) << "Dimensions: " << noshowpoint << resetiosflags(ios::fixed) << flatRatePackages[i].getLength() << "x" << flatRatePackages[i].getWidth() << "x" << flatRatePackages[i].getHeight() << endl
 				<< left << setw(12) << "Insurance: " << flatRatePackages[i].getInsuranceType() << endl
 				<< left << setw(12) << "Signature: " << flatRatePackages[i].getSignatureConfirmation() << endl
-				<< left << setw(12) << "Cost: " << fixed << showpoint << setprecision(2) << "$" << flatRatePackages[i].calculateCost() << endl
+				<< left << setw(12) << "Cost: " << fixed << showpoint << setprecision(2) << "$" << flatRatePackages[i].calculateCost(flatRatePackages[i].getType(), flatRatePackages[i].getLength(), flatRatePackages[i].getWidth(), flatRatePackages[i].getHeight()) << endl
 				<< "-----------------------------------------\n";
 		}
 	}
@@ -319,7 +319,7 @@ void PackageInventory::calculateTotalCost(const string & pT) const
 	{
 		for (int i = 0; i < flatRatePackages.size(); i++)
 		{
-			totalCost += flatRatePackages[i].calculateCost();
+			totalCost += flatRatePackages[i].calculateCost(flatRatePackages[i].getType(), flatRatePackages[i].getLength(), flatRatePackages[i].getWidth(), flatRatePackages[i].getHeight());
 		}
 		cout << "The total cost of all " << flatRatePackages.size() << " shipped flat rate packages is: $" << totalCost << endl;
 	}

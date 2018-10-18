@@ -3,7 +3,7 @@ Contains constructors, mutators, and accessors for the package inventory class. 
 */
 #pragma once
 #include "package.h"
-#include "flateRatePackage.h"
+#include "flatRatePackage.h"
 #include "overnightPackage.h"
 #include <vector>
 
