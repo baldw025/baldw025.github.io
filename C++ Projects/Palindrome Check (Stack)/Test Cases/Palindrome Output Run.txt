@@ -1,0 +1,19 @@
+Enter a string to check if it is palindrome: sees
+"sees" is a palindrome!
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: yas
+
+Enter a string to check if it is palindrome: I
+"I" is a palindrome!
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: y
+
+Enter a string to check if it is palindrome: able was i saw elba
+"able was i saw elba" is a palindrome!
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: y
+
+Enter a string to check if it is palindrome: kayak
+"kayak" is a palindrome!
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy ;
+
+Enter a string to check if it is palindrome: c++ is fun
+"c++ is fun" is not a palindrome!
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: eggs hit
