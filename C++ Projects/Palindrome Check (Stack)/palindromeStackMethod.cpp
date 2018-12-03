@@ -1,4 +1,4 @@
-#include "palindrome.h"
+#include "palindromeStackMethod.h"
 
 #include <iostream>
 
