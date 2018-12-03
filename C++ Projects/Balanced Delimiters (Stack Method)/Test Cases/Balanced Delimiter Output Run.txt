@@ -1,0 +1,36 @@
+Enter a string to check delimiter balance: While(a==b){a++;
+Unbalanced Delimiters: Missing right delimiter(s).
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: y
+
+Enter a string to check delimiter balance: [A*(B+2)-{(3/C+(E-F))+[(E*3)-4]}]
+Delimiters are balanced.
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: ys
+Enter a string to check delimiter balance: if(a<(b*c)))
+Unbalanced Delimiters: Missing left delimiter(s).
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: yeagfyieag7983798q89989*** A*(*(SY(*AYS A()S0 jdsad[a]d\\
+Enter a string to check delimiter balance: {3+4+5+6-7]
+Unbalanced Delimiters: Delimiter Mismatch.
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: y hafg 9883993998@}$|}|@}$}| KNKDWNOIHDHOIDS)(()SDSIHFHS*( *(*Y (YSY DYS                        (**SDY**DS
+Enter a string to check delimiter balance: [A*(E+2)-((G*3+(E-B))+[(E*3)-4]}]
+Unbalanced Delimiters: Delimiter Mismatch.
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: yes
+Enter a string to check delimiter balance: A+B+C
+The user-defined string contains no delimiters.
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: Y
+Enter a string to check delimiter balance: (a+b+c*(d-2]))
+Unbalanced Delimiters: Missing left delimiter(s).
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: Yeah
+Enter a string to check delimiter balance: [e-f)
+Unbalanced Delimiters: Delimiter Mismatch.
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: yep
+Enter a string to check delimiter balance: [[()()])
+Unbalanced Delimiters: Delimiter Mismatch.
+
+Would you like to check another string? Enter "Y" for yes, or any other character to exit: eggs it
