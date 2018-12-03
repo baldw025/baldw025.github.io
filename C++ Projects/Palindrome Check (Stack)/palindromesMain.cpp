@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-#include "palindromeStackMethod.h"
-//#include "palindromeQueueMethod.h"
+#include "palindrome.h"
 
 using std::cin;
 using std::cout;
