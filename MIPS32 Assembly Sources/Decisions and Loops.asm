@@ -101,7 +101,7 @@ la $a0, error2String
 syscall
 
 j getLoopInput
-
+#----------------------------#
 Error2:							# The user's loop count is less than 1
 li $v0, 4
 la $a0, mainErrorString
