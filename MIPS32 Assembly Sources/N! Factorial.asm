@@ -1,7 +1,7 @@
 #----------------------------------------------------------------------------------------------------------------------------------------
 #Program Description:	This program program is written to recursively calculate the factorial of "N!". 
-#			                "N" can be any number ranging from 0 - 10. (0 <= N <= 10)
-#Author:		          DeAndre Baldwin
+#			"N" can be any number ranging from 0 - 10. (0 <= N <= 10)
+#Author:		DeAndre Baldwin
 #----------------------------------------------------------------------------------------------------------------------------------------
 .data
 userInput: .asciiz "Enter a number (0 - 10) to calculate its factorial!: "
@@ -11,14 +11,14 @@ factorialOutput: .asciiz "The calculated factorial(N!) of your number(N) is: "
 productThing: .asciiz "\nProduct: "
 .text
 #-------------------------#
-#	       Registers	      #
+#	 Registers	  #
 #-------------------------#
-# $s0 - User Input	      #
+# $s0 - User Input	  #
 # $s1 - Factorial Product #
-# $s2 - Iterator	        #	
+# $s2 - Iterator	  #	
 # $s3 - Recursive Input   #
-# $s4 - (N-(N-1)	        #
-# $t1 - Low Register	    #
+# $s4 - (N-(N-1)	  #
+# $t1 - Low Register	  #
 # %t2 - blt Compare (0)   #
 # $t3 - bgt Compare (10)  #
 #-------------------------#
@@ -38,14 +38,14 @@ addi $t2, $0, 0
 addi $t3, $0, 10
 blt $s0, $t2, Error1
 bgt $s0, $t3, Error2
-beq $s0, $t2, ZeroCase		# Issa 1
+beq $s0, $t2, ZeroCase					# Issa 1
 
 beginLoop:
-beq $s2, $s4, Finished		# Once we loop through the factorial calculation "N-1" times, goto Finished
+beq $s2, $s4, Finished					# Once we loop through the factorial calculation "N-1" times, goto Finished
 add $s2, $s2, 1						# Increase our iterator register by "1" until $s2 == ($s0 - 1)
 
-calculateFactorial:				# This section is solely responsible for calculating the factorial of the user's number
-mult $s0, $s3						  # N(N-1) until N == 1
+calculateFactorial:					# This section is solely responsible for calculating the factorial of the user's number
+mult $s0, $s3						# N(N-1) until N == 1
 mflo $t1
 add $s1, $0, $t1					# Add the product to our sum
 add $s0, $0, $t1					# Set the first operand to the resulting product
@@ -78,7 +78,7 @@ syscall
 #-------------------------#
 #          Errors         #
 #-------------------------#
-Error1:							      # User's input is less than "0"
+Error1:							# User's input is less than "0"
 add $a0, $0, $s0
 li $v0, 1
 syscall
@@ -89,7 +89,7 @@ syscall
 
 j getUserInput
 #-------------------------#
-Error2:							      # User's input is greater than "10"
+Error2:							# User's input is greater than "10"
 add $a0, $0, $s0
 li $v0, 1
 syscall
